@@ -1,0 +1,4 @@
+{
+  "__comment__": "MindCare AI user store — passwords are bcrypt-hashed, never plain text.",
+  "users": []
+}

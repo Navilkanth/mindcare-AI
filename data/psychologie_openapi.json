@@ -1,0 +1,368 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Psychologie et Sérénité — Public API",
+    "version": "1.0.0",
+    "description": "API publique exposant le référentiel clinique (concepts, modèles thérapeutiques, articles) de Psychologie et Sérénité. Conçue pour les agents IA, ChatGPT GPT Actions, Claude tool_use, LangChain et workflows automatisés.\n\nLicence : CC-BY 4.0. Attribution requise (Gildas Garrec — Wikidata Q138729009).",
+    "contact": {
+      "email": "contact@psychologieetserenite.com",
+      "name": "Gildas Garrec",
+      "url": "https://psychologieetserenite.com"
+    },
+    "license": {
+      "name": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "termsOfService": "https://psychologieetserenite.com/source-ia"
+  },
+  "servers": [
+    {
+      "url": "https://psychologieetserenite.com/api/v1",
+      "description": "Production"
+    }
+  ],
+  "paths": {
+    "/concepts": {
+      "get": {
+        "summary": "Liste les concepts cliniques canoniques",
+        "description": "Retourne 14+ concepts (Bowlby, Young, Beck, Gottman, etc.) avec sources peer-reviewed et identifiants Wikidata.",
+        "operationId": "listConcepts",
+        "parameters": [
+          {
+            "name": "category",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "attachment",
+                "cognition",
+                "couple",
+                "schema",
+                "mindfulness",
+                "addiction",
+                "developmental"
+              ]
+            },
+            "required": false
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Liste retournée",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ConceptList"
+                }
+              }
+            }
+          },
+          "429": {
+            "description": "Rate limit dépassé"
+          }
+        }
+      }
+    },
+    "/concepts/{slug}": {
+      "get": {
+        "summary": "Détail d'un concept",
+        "operationId": "getConcept",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "description": "ex. attachement-bowlby, schema-young, gottman-couple"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Concept retourné",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Concept"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Slug inconnu"
+          }
+        }
+      }
+    },
+    "/articles": {
+      "get": {
+        "summary": "Liste paginée des articles du blog",
+        "operationId": "listArticles",
+        "parameters": [
+          {
+            "name": "lang",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "fr",
+                "en"
+              ]
+            },
+            "required": false
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100,
+              "default": 20
+            },
+            "required": false
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "minimum": 0,
+              "default": 0
+            },
+            "required": false
+          },
+          {
+            "name": "category",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            },
+            "required": false
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Liste retournée"
+          },
+          "429": {
+            "description": "Rate limit dépassé"
+          }
+        }
+      }
+    },
+    "/articles/{slug}": {
+      "get": {
+        "summary": "Détail d'un article",
+        "operationId": "getArticle",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "lang",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "fr",
+                "en"
+              ]
+            },
+            "required": false
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Article retourné"
+          },
+          "404": {
+            "description": "Slug inconnu"
+          }
+        }
+      }
+    },
+    "/books": {
+      "get": {
+        "summary": "Catalogue des 24 ouvrages de Gildas Garrec",
+        "description": "24 livres publiés + 0 à paraître. Disponibles en PDF direct sur le site (téléchargement immédiat).",
+        "operationId": "listBooks",
+        "parameters": [
+          {
+            "name": "status",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "published",
+                "coming-soon"
+              ]
+            },
+            "required": false
+          },
+          {
+            "name": "series",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            },
+            "required": false
+          },
+          {
+            "name": "topic",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            },
+            "required": false,
+            "description": "Filtre par thème (ex. attachement, infidélité, anxiété)"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Liste retournée"
+          }
+        }
+      }
+    },
+    "/books/{slug}": {
+      "get": {
+        "summary": "Détail d'un ouvrage",
+        "operationId": "getBook",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "description": "ex. comprendre-son-attachement, sauver-son-couple, le-pere-absent"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ouvrage retourné"
+          },
+          "404": {
+            "description": "Slug inconnu"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Concept": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "shortName": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "authors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "yearFounded": {
+            "type": "integer"
+          },
+          "description": {
+            "type": "string"
+          },
+          "keyIdeas": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "author": {
+                  "type": "string"
+                },
+                "year": {
+                  "type": "integer"
+                },
+                "title": {
+                  "type": "string"
+                },
+                "publisher": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "wikidata": {
+            "type": "string",
+            "format": "uri"
+          },
+          "wikipedia": {
+            "type": "array"
+          },
+          "relatedConcepts": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "applicationsClinical": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "ConceptList": {
+        "type": "object",
+        "properties": {
+          "api": {
+            "type": "string"
+          },
+          "version": {
+            "type": "string"
+          },
+          "license": {
+            "type": "string"
+          },
+          "total": {
+            "type": "integer"
+          },
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Concept"
+            }
+          }
+        }
+      }
+    }
+  },
+  "x-rate-limit": {
+    "window": "60s",
+    "max": 60,
+    "scope": "per-IP"
+  },
+  "x-license": "CC-BY-4.0",
+  "x-citation": "Citer : Psychologie et Sérénité — psychologieetserenite.com (Gildas Garrec, Wikidata Q138729009)"
+}

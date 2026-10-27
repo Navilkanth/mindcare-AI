@@ -1,0 +1,2137 @@
+{
+  "concepts": [
+    {
+      "slug": "attachement-bowlby",
+      "name": "Théorie de l'attachement",
+      "shortName": "Attachement (Bowlby)",
+      "category": "attachment",
+      "authors": [
+        "John Bowlby",
+        "Mary Ainsworth"
+      ],
+      "yearFounded": 1969,
+      "description": "Cadre théorique fondateur expliquant comment les liens précoces entre l'enfant et ses figures d'attachement structurent les relations adultes. Distingue 4 styles d'attachement (sécure, anxieux, évitant, désorganisé).",
+      "wikidata": "https://www.wikidata.org/wiki/Q838345",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/attachement-bowlby"
+    },
+    {
+      "slug": "schema-young",
+      "name": "Thérapie des schémas précoces inadaptés",
+      "shortName": "Schémas (Young)",
+      "category": "schema",
+      "authors": [
+        "Jeffrey Young"
+      ],
+      "yearFounded": 1990,
+      "description": "Identifie 18 schémas précoces inadaptés formés dans l'enfance, organisés en 5 domaines (séparation/rejet, autonomie altérée, exigences excessives, etc.). Approche TCC enrichie ciblant les patterns persistants.",
+      "wikidata": "https://www.wikidata.org/wiki/Q7430538",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/schema-young"
+    },
+    {
+      "slug": "tcc-beck",
+      "name": "Thérapie cognitivo-comportementale",
+      "shortName": "TCC (Beck)",
+      "category": "cognition",
+      "authors": [
+        "Aaron Beck"
+      ],
+      "yearFounded": 1976,
+      "description": "Approche thérapeutique structurée, brève et orientée problème, ciblant les distorsions cognitives, croyances dysfonctionnelles et comportements évitants. Validée scientifiquement pour la dépression, l'anxiété, les phobies, le TOC.",
+      "wikidata": "https://www.wikidata.org/wiki/Q1147152",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/tcc-beck"
+    },
+    {
+      "slug": "rebt-ellis",
+      "name": "Thérapie rationnelle-émotive et comportementale",
+      "shortName": "REBT (Ellis)",
+      "category": "cognition",
+      "authors": [
+        "Albert Ellis"
+      ],
+      "yearFounded": 1962,
+      "description": "Précurseur de la TCC. Identifie les croyances irrationnelles (« il faut absolument… ») comme source des perturbations émotionnelles. Méthode ABC + dispute des croyances.",
+      "wikidata": "https://www.wikidata.org/wiki/Q317893",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/rebt-ellis"
+    },
+    {
+      "slug": "gottman-couple",
+      "name": "Modèle Gottman du couple",
+      "shortName": "Gottman",
+      "category": "couple",
+      "authors": [
+        "John Gottman",
+        "Julie Gottman"
+      ],
+      "yearFounded": 1999,
+      "description": "Modèle empirique de la stabilité conjugale fondé sur 40 ans d'observation en laboratoire. Identifie les 4 cavaliers de l'apocalypse (critique, mépris, défensive, retrait), le ratio 5:1 et la love map.",
+      "wikidata": "https://www.wikidata.org/wiki/Q1700687",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/gottman-couple"
+    },
+    {
+      "slug": "amour-sternberg",
+      "name": "Théorie triangulaire de l'amour",
+      "shortName": "Triangle (Sternberg)",
+      "category": "couple",
+      "authors": [
+        "Robert Sternberg"
+      ],
+      "yearFounded": 1986,
+      "description": "Modèle de l'amour combinant 3 composantes (intimité, passion, engagement) qui produisent 7 types d'amour selon leur combinaison.",
+      "wikidata": "https://www.wikidata.org/wiki/Q1859121",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/amour-sternberg"
+    },
+    {
+      "slug": "langages-amour-chapman",
+      "name": "Cinq langages de l'amour",
+      "shortName": "Langages (Chapman)",
+      "category": "couple",
+      "authors": [
+        "Gary Chapman"
+      ],
+      "yearFounded": 1992,
+      "description": "Identifie 5 modes principaux par lesquels les partenaires expriment et reçoivent l'amour. Outil populaire pour améliorer la communication conjugale.",
+      "wikidata": "https://www.wikidata.org/wiki/Q5410645",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/langages-amour-chapman"
+    },
+    {
+      "slug": "act-hayes",
+      "name": "Thérapie d'acceptation et d'engagement",
+      "shortName": "ACT (Hayes)",
+      "category": "mindfulness",
+      "authors": [
+        "Steven Hayes",
+        "Kirk Strosahl",
+        "Kelly Wilson"
+      ],
+      "yearFounded": 1999,
+      "description": "3e vague des TCC. Utilise l'acceptation, la défusion cognitive et l'engagement vers les valeurs personnelles. Hexaflex en 6 processus thérapeutiques.",
+      "wikidata": "https://www.wikidata.org/wiki/Q4673024",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/act-hayes"
+    },
+    {
+      "slug": "mbct-segal",
+      "name": "Thérapie cognitive basée sur la pleine conscience",
+      "shortName": "MBCT (Segal)",
+      "category": "mindfulness",
+      "authors": [
+        "Zindel Segal",
+        "Mark Williams",
+        "John Teasdale"
+      ],
+      "yearFounded": 2002,
+      "description": "Programme de 8 semaines combinant TCC et pleine conscience (mindfulness). Spécifiquement validé pour la prévention des rechutes dépressives.",
+      "wikidata": "https://www.wikidata.org/wiki/Q6864961",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/mbct-segal"
+    },
+    {
+      "slug": "codependance-norwood",
+      "name": "Codépendance affective",
+      "shortName": "Codépendance (Norwood)",
+      "category": "attachment",
+      "authors": [
+        "Robin Norwood"
+      ],
+      "yearFounded": 1985,
+      "description": "Pattern d'auto-sacrifice et de besoin compulsif d'aider l'autre, souvent au détriment de soi. Concept popularisé dans le mouvement Anonymous.",
+      "wikidata": "https://www.wikidata.org/wiki/Q1126037",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/codependance-norwood"
+    },
+    {
+      "slug": "pere-absent-corneau",
+      "name": "Père manquant",
+      "shortName": "Père absent (Corneau)",
+      "category": "developmental",
+      "authors": [
+        "Guy Corneau"
+      ],
+      "yearFounded": 1989,
+      "description": "Modèle psychanalytique des conséquences de l'absence ou de l'indisponibilité paternelle sur le développement adulte, particulièrement chez l'homme.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/pere-absent-corneau"
+    },
+    {
+      "slug": "pardon-snyder",
+      "name": "Programme de réparation après infidélité",
+      "shortName": "Pardon (Snyder/Baucom)",
+      "category": "couple",
+      "authors": [
+        "Douglas Snyder",
+        "Donald Baucom",
+        "Kristina Gordon"
+      ],
+      "yearFounded": 2007,
+      "description": "Modèle TCC structuré en 3 phases pour la reconstruction de couple après une trahison majeure (infidélité, mensonge, abus de confiance).",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/pardon-snyder"
+    },
+    {
+      "slug": "amour-fisher",
+      "name": "Neurosciences de l'amour romantique",
+      "shortName": "Amour (Fisher)",
+      "category": "couple",
+      "authors": [
+        "Helen Fisher"
+      ],
+      "yearFounded": 2004,
+      "description": "Modèle biologique distinguant 3 systèmes neurologiques distincts dans l'amour : désir sexuel (testostérone), attirance romantique (dopamine), attachement durable (ocytocine, vasopressine).",
+      "wikidata": "https://www.wikidata.org/wiki/Q236627",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/amour-fisher"
+    },
+    {
+      "slug": "distorsions-cognitives",
+      "name": "Distorsions cognitives",
+      "shortName": "Distorsions cognitives",
+      "category": "cognition",
+      "authors": [
+        "Aaron Beck",
+        "David Burns"
+      ],
+      "yearFounded": 1980,
+      "description": "Liste opérationnelle de 11 biais de pensée structurellement présents dans la dépression, l'anxiété et les troubles relationnels. Outil central de la TCC.",
+      "wikidata": "https://www.wikidata.org/wiki/Q5099944",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/distorsions-cognitives"
+    },
+    {
+      "slug": "barkley-inhibition",
+      "name": "Modèle d'inhibition comportementale du TDAH (Barkley)",
+      "shortName": "Inhibition (Barkley)",
+      "category": "adhd",
+      "authors": [
+        "Russell Barkley"
+      ],
+      "yearFounded": 1997,
+      "description": "Modèle théorique plaçant le déficit d'inhibition comportementale en amont du TDAH : l'incapacité à retarder une réponse perturbe quatre fonctions exécutives (mémoire de travail non verbale, autorégulation des affects et de la motivation, internalisation du langage, reconstitution/planification), ce qui explique les difficultés d'autorégulation.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/barkley-inhibition"
+    },
+    {
+      "slug": "ace-felitti",
+      "name": "Expériences adverses de l'enfance (ACE)",
+      "shortName": "ACE (Felitti)",
+      "category": "trauma",
+      "authors": [
+        "Vincent Felitti",
+        "Robert Anda"
+      ],
+      "yearFounded": 1998,
+      "description": "Étude épidémiologique majeure établissant un lien dose-réponse entre l'accumulation d'expériences adverses dans l'enfance (maltraitance, négligence, dysfonctionnements du foyer) et des problèmes de santé physique et mentale à l'âge adulte : plus le nombre d'adversités est élevé, plus le risque augmente.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/ace-felitti"
+    },
+    {
+      "slug": "maslach-burnout",
+      "name": "Modèle du burnout (Maslach)",
+      "shortName": "Burnout (Maslach)",
+      "category": "stress",
+      "authors": [
+        "Christina Maslach",
+        "Susan Jackson"
+      ],
+      "yearFounded": 1981,
+      "description": "Conceptualisation du burnout (épuisement professionnel) en trois dimensions : épuisement émotionnel, dépersonnalisation (cynisme, mise à distance) et réduction de l'accomplissement personnel. Réponse prolongée à des stresseurs chroniques au travail.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/maslach-burnout"
+    },
+    {
+      "slug": "lazarus-folkman-coping",
+      "name": "Modèle transactionnel du stress et du coping (Lazarus & Folkman)",
+      "shortName": "Coping (Lazarus & Folkman)",
+      "category": "stress",
+      "authors": [
+        "Richard Lazarus",
+        "Susan Folkman"
+      ],
+      "yearFounded": 1984,
+      "description": "Modèle transactionnel où le stress naît de l'évaluation cognitive d'une situation : évaluation primaire (la situation est-elle menaçante ?) et secondaire (ai-je les ressources pour y faire face ?). Le coping se décline en stratégies centrées sur le problème ou centrées sur l'émotion.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/lazarus-folkman-coping"
+    },
+    {
+      "slug": "clark-wells-sociale",
+      "name": "Modèle cognitif de l'anxiété sociale (Clark & Wells)",
+      "shortName": "Anxiété sociale (Clark & Wells)",
+      "category": "anxiety",
+      "authors": [
+        "David M. Clark",
+        "Adrian Wells"
+      ],
+      "yearFounded": 1995,
+      "description": "Modèle cognitif expliquant le maintien de l'anxiété sociale par l'attention auto-focalisée, une image négative de soi construite « de l'extérieur », des comportements de sécurité et un traitement anticipatoire puis post-événementiel négatif de l'interaction.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/clark-wells-sociale"
+    },
+    {
+      "slug": "ehlers-clark-ptsd",
+      "name": "Modèle cognitif du trouble de stress post-traumatique (Ehlers & Clark)",
+      "shortName": "TSPT (Ehlers & Clark)",
+      "category": "trauma",
+      "authors": [
+        "Anke Ehlers",
+        "David M. Clark"
+      ],
+      "yearFounded": 2000,
+      "description": "Modèle expliquant le maintien du TSPT par une mémoire traumatique mal intégrée et un sentiment de menace actuelle, alimentés par des interprétations négatives du trauma et de ses suites, et par des stratégies de contrôle (évitement, rumination) qui empêchent l'intégration du souvenir.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/ehlers-clark-ptsd"
+    },
+    {
+      "slug": "transtheorique-prochaska",
+      "name": "Modèle transthéorique du changement (stades du changement)",
+      "shortName": "Stades du changement (Prochaska & DiClemente)",
+      "category": "addiction",
+      "authors": [
+        "James Prochaska",
+        "Carlo DiClemente"
+      ],
+      "yearFounded": 1983,
+      "description": "Modèle décrivant le changement de comportement comme un processus en stades — précontemplation, contemplation, préparation, action, maintien (avec possible rechute) — chaque stade appelant des leviers d'intervention différents. Très utilisé dans les addictions et la motivation au changement.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/transtheorique-prochaska"
+    },
+    {
+      "slug": "salkovskis-responsabilite",
+      "name": "Modèle de la responsabilité gonflée (Salkovskis)",
+      "shortName": "Responsabilité (Salkovskis)",
+      "category": "ocd",
+      "authors": [
+        "Paul Salkovskis"
+      ],
+      "yearFounded": 1985,
+      "description": "Modèle cognitivo-comportemental du TOC : une pensée intrusive ordinaire devient problématique quand la personne l'interprète comme un signe de responsabilité personnelle face à un danger possible. Cette responsabilité perçue déclenche des neutralisations et des compulsions destinées à prévenir le mal.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/salkovskis-responsabilite"
+    },
+    {
+      "slug": "wells-metacognitif",
+      "name": "Modèle métacognitif (S-REF)",
+      "shortName": "Métacognition (Wells)",
+      "category": "anxiety",
+      "authors": [
+        "Adrian Wells",
+        "Gerald Matthews"
+      ],
+      "yearFounded": 1994,
+      "description": "Modèle transdiagnostique où la souffrance est entretenue non par le contenu des pensées mais par les croyances métacognitives (croyances sur les pensées) et un style de pensée persévératif (rumination, inquiétude, surveillance de la menace). Le modèle S-REF (Self-Regulatory Executive Function) décrit cette boucle d'autorégulation.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/wells-metacognitif"
+    },
+    {
+      "slug": "erp-foa-kozak",
+      "name": "Traitement émotionnel de la peur (Foa & Kozak)",
+      "shortName": "Exposition (Foa & Kozak)",
+      "category": "anxiety",
+      "authors": [
+        "Edna Foa",
+        "Michael Kozak"
+      ],
+      "yearFounded": 1986,
+      "description": "Théorie du traitement émotionnel : la peur est représentée en mémoire comme une structure (déclencheurs, réponses, significations) qui doit être activée puis modifiée par des informations correctrices. L'exposition prolongée, avec prévention de la réponse d'évitement, permet cette modification — base de l'exposition dans l'anxiété et le TOC.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/erp-foa-kozak"
+    },
+    {
+      "slug": "intolerance-incertitude-dugas",
+      "name": "Intolérance à l'incertitude (Dugas)",
+      "shortName": "Intolérance incertitude (Dugas)",
+      "category": "anxiety",
+      "authors": [
+        "Michel Dugas",
+        "Robert Ladouceur"
+      ],
+      "yearFounded": 1998,
+      "description": "Modèle du trouble anxieux généralisé (TAG) centré sur l'intolérance à l'incertitude : la difficulté à supporter l'inconnu et l'ambiguïté alimente l'inquiétude chronique, soutenue par des croyances positives sur l'inquiétude, une orientation négative face aux problèmes et l'évitement cognitif.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/intolerance-incertitude-dugas"
+    },
+    {
+      "slug": "bowen-differenciation",
+      "name": "Différenciation du soi (théorie de Bowen)",
+      "shortName": "Différenciation (Bowen)",
+      "category": "family",
+      "authors": [
+        "Murray Bowen"
+      ],
+      "yearFounded": 1978,
+      "description": "Théorie systémique familiale : la famille est une unité émotionnelle. La « différenciation du soi » désigne la capacité à conserver son autonomie émotionnelle et intellectuelle tout en restant en lien. Une faible différenciation favorise la fusion, la triangulation et la coupure émotionnelle, transmises à travers les générations.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/bowen-differenciation"
+    },
+    {
+      "slug": "two-factor-mowrer",
+      "name": "Théorie des deux facteurs (Mowrer)",
+      "shortName": "Deux facteurs (Mowrer)",
+      "category": "phobia",
+      "authors": [
+        "O. Hobart Mowrer"
+      ],
+      "yearFounded": 1960,
+      "description": "Théorie de l'apprentissage expliquant l'acquisition et le maintien des peurs en deux temps : un conditionnement classique installe la peur (association à un stimulus), puis un conditionnement opérant la maintient — l'évitement réduit l'anxiété à court terme et se trouve ainsi renforcé, empêchant l'extinction. Cadre classique des phobies et de l'agoraphobie.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/two-factor-mowrer"
+    },
+    {
+      "slug": "addiction-comportementale-griffiths",
+      "name": "Modèle des composantes de l'addiction (Griffiths)",
+      "shortName": "Addiction comportementale (Griffiths)",
+      "category": "addiction",
+      "authors": [
+        "Mark Griffiths"
+      ],
+      "yearFounded": 2005,
+      "description": "Modèle biopsychosocial définissant toute addiction (substances comme comportements : jeu, écrans, jeux vidéo) par six composantes communes. Permet de distinguer une passion intense d'une véritable addiction selon la présence de ces composantes.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/addiction-comportementale-griffiths"
+    },
+    {
+      "slug": "brown-clusters",
+      "name": "Modèle des clusters exécutifs du TDAH (Brown)",
+      "shortName": "Clusters exécutifs (Brown)",
+      "category": "adhd",
+      "authors": [
+        "Thomas E. Brown"
+      ],
+      "yearFounded": 2005,
+      "description": "Modèle décrivant le TDAH comme une atteinte de la fonction exécutive organisée en plusieurs groupes (clusters) interdépendants : activation, focalisation, effort, gestion des émotions, mémoire de travail et régulation de l'action. Met l'accent sur l'aspect dynamique et contextuel des difficultés.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/brown-clusters"
+    },
+    {
+      "slug": "cycle-colere-novaco",
+      "name": "Modèle cognitif de la colère (Novaco)",
+      "shortName": "Cycle de la colère (Novaco)",
+      "category": "impulse",
+      "authors": [
+        "Raymond Novaco"
+      ],
+      "yearFounded": 1975,
+      "description": "Modèle cognitivo-comportemental de la colère décrivant une boucle : un déclencheur est interprété (évaluation cognitive), ce qui produit une activation physiologique et un comportement, lequel renforce ou désamorce la colère. Base des programmes de gestion de la colère.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/cycle-colere-novaco"
+    },
+    {
+      "slug": "self-determination-deci-ryan",
+      "name": "Théorie de l'autodétermination (SDT)",
+      "shortName": "Autodétermination (Deci & Ryan)",
+      "category": "developmental",
+      "authors": [
+        "Edward Deci",
+        "Richard Ryan"
+      ],
+      "yearFounded": 1985,
+      "description": "Théorie de la motivation distinguant la motivation autonome (choisie, alignée sur ses valeurs) de la motivation contrôlée (sous pression externe ou interne). Le bien-être et l'engagement durables dépendent de la satisfaction de trois besoins psychologiques fondamentaux : autonomie, compétence et affiliation.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/self-determination-deci-ryan"
+    },
+    {
+      "slug": "resilience-masten",
+      "name": "Résilience ordinaire (Masten)",
+      "shortName": "Résilience (Masten)",
+      "category": "developmental",
+      "authors": [
+        "Ann Masten"
+      ],
+      "yearFounded": 2001,
+      "description": "Conception de la résilience comme « magie ordinaire » : l'adaptation positive face à l'adversité ne relève pas de qualités exceptionnelles, mais de systèmes de protection ordinaires (liens d'attachement, compétences d'autorégulation, soutien de l'entourage, sens). La résilience est un processus, pas un trait rare.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/resilience-masten"
+    },
+    {
+      "slug": "dark-triad",
+      "name": "Triade noire de la personnalité (Dark Triad)",
+      "shortName": "Triade noire (Paulhus & Williams)",
+      "category": "personality",
+      "authors": [
+        "Delroy Paulhus",
+        "Kevin Williams"
+      ],
+      "yearFounded": 2002,
+      "description": "Regroupement de trois traits de personnalité socialement aversifs mais distincts, présents à des degrés variables en population générale (subcliniques) : narcissisme, machiavélisme et psychopathie. Ils partagent une tendance à l'instrumentalisation d'autrui, avec des motivations différentes.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/dark-triad"
+    },
+    {
+      "slug": "tripartite-clark-watson",
+      "name": "Modèle tripartite de l'anxiété et de la dépression (Clark & Watson)",
+      "shortName": "Modèle tripartite (Clark & Watson)",
+      "category": "anxiety",
+      "authors": [
+        "Lee Anna Clark",
+        "David Watson"
+      ],
+      "yearFounded": 1991,
+      "description": "Modèle structurel distinguant ce qui est commun et ce qui est spécifique à l'anxiété et à la dépression : un affect négatif élevé est partagé par les deux ; l'hyperactivation physiologique est propre à l'anxiété ; le faible affect positif (anhédonie) est propre à la dépression. Explique leur fréquente comorbidité tout en les différenciant.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/tripartite-clark-watson"
+    },
+    {
+      "slug": "panique-clark",
+      "name": "Modèle cognitif de la panique (Clark)",
+      "shortName": "Panique (D. M. Clark)",
+      "category": "anxiety",
+      "authors": [
+        "David M. Clark"
+      ],
+      "yearFounded": 1986,
+      "description": "Modèle expliquant l'attaque de panique par l'interprétation catastrophique de sensations corporelles bénignes (palpitations, vertige, souffle court) perçues comme signes d'un danger imminent (crise cardiaque, perte de contrôle). Cette interprétation amplifie les sensations, créant un cercle vicieux qui culmine en panique.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/panique-clark"
+    },
+    {
+      "slug": "taf-fusion",
+      "name": "Fusion pensée-action (TAF)",
+      "shortName": "Fusion pensée-action (TAF)",
+      "category": "ocd",
+      "authors": [
+        "Roz Shafran",
+        "Stanley Rachman"
+      ],
+      "yearFounded": 1996,
+      "description": "Biais cognitif central dans le TOC : la confusion entre penser et agir. Sous sa forme « morale », avoir une pensée inacceptable équivaut moralement à l'acte ; sous sa forme « probabiliste », penser à un événement augmenterait sa probabilité de survenue. Cette fusion donne aux pensées intrusives un poids démesuré.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/taf-fusion"
+    },
+    {
+      "slug": "clinical-perfectionism",
+      "name": "Perfectionnisme clinique",
+      "shortName": "Perfectionnisme clinique",
+      "category": "cognition",
+      "authors": [
+        "Roz Shafran",
+        "Zafra Cooper",
+        "Christopher Fairburn"
+      ],
+      "yearFounded": 2002,
+      "description": "Construit cognitivo-comportemental transdiagnostique : l'auto-évaluation dépend de façon excessive de l'atteinte de standards personnels exigeants, maintenus malgré des conséquences négatives. Distinct du trait de personnalité « perfectionnisme » : c'est la surévaluation de la performance comme source de valeur personnelle. On le retrouve dans les troubles alimentaires, l'anxiété, la dépression et le TOC.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/clinical-perfectionism"
+    },
+    {
+      "slug": "contextuelle-nagy",
+      "name": "Thérapie contextuelle (Böszörményi-Nagy)",
+      "shortName": "Thérapie contextuelle (Nagy)",
+      "category": "family",
+      "authors": [
+        "Iván Böszörményi-Nagy",
+        "Geraldine Spark"
+      ],
+      "yearFounded": 1973,
+      "description": "Approche familiale intergénérationnelle centrée sur l'éthique relationnelle : les relations se règlent sur un registre de justice et de réciprocité. Les « loyautés invisibles », les dettes et les legs se transmettent d'une génération à l'autre et influencent les liens présents.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/contextuelle-nagy"
+    },
+    {
+      "slug": "enfant-interieur-ifs",
+      "name": "Systèmes familiaux internes (IFS)",
+      "shortName": "IFS / Enfant intérieur (Schwartz)",
+      "category": "schema",
+      "authors": [
+        "Richard Schwartz"
+      ],
+      "yearFounded": 1995,
+      "description": "Modèle intrapsychique : le « Family » d'Internal Family Systems désigne non pas la famille réelle mais les parties internes du psychisme. Il décrit des parties (exilés porteurs de blessures, protecteurs « managers », « pompiers » réactifs) organisées autour d'un Soi central, ressource d'apaisement. Le travail vise à relâcher les charges des parties blessées (« enfant intérieur »).",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/enfant-interieur-ifs"
+    },
+    {
+      "slug": "communication-non-violente",
+      "name": "Communication NonViolente (Rosenberg)",
+      "shortName": "CNV (Rosenberg)",
+      "category": "couple",
+      "authors": [
+        "Marshall Rosenberg"
+      ],
+      "yearFounded": 2003,
+      "description": "Méthode de communication appliquée (et non un modèle clinique empirique) structurant l'expression en quatre temps : Observation (décrire sans juger), Sentiment, Besoin, Demande. Vise à exprimer ses besoins et à entendre ceux de l'autre sans reproche ni exigence, pour désamorcer les conflits relationnels.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/communication-non-violente"
+    },
+    {
+      "slug": "triangle-karpman",
+      "name": "Triangle dramatique de Karpman",
+      "shortName": "Triangle dramatique (Karpman)",
+      "category": "couple",
+      "authors": [
+        "Stephen Karpman"
+      ],
+      "yearFounded": 1968,
+      "description": "Outil conceptuel issu de l'analyse transactionnelle (et non un modèle validé empiriquement) décrivant trois rôles relationnels dans les jeux de pouvoir : Persécuteur, Victime et Sauveur. Les personnes alternent entre ces rôles, ce qui entretient des dynamiques conflictuelles stériles.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/triangle-karpman"
+    },
+    {
+      "slug": "cycle-walker",
+      "name": "Cycle de la violence (Walker)",
+      "shortName": "Cycle de la violence (Walker)",
+      "category": "couple",
+      "authors": [
+        "Lenore Walker"
+      ],
+      "yearFounded": 1979,
+      "description": "Modèle descriptif de la dynamique cyclique de la violence conjugale, en phases qui se répètent : montée des tensions, explosion (incident violent), réconciliation/justification, puis accalmie (« lune de miel »). La phase d'accalmie entretient l'espoir et rend la sortie plus difficile.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/cycle-walker"
+    },
+    {
+      "slug": "profil-disc",
+      "name": "Profil DISC",
+      "shortName": "Profil DISC",
+      "category": "personality",
+      "authors": [
+        "William Moulton Marston"
+      ],
+      "yearFounded": 1928,
+      "description": "Outil de typologie comportementale appliqué (et souvent commercial) décrivant quatre styles dominants : Dominance, Influence, Stabilité, Conformité. Il s'inspire des travaux de Marston sur les émotions (1928) ; Marston lui-même n'a pas conçu l'outil DISC commercial actuel, développé plus tard par d'autres. Ce n'est pas un modèle de personnalité validé empiriquement au sens des grilles de recherche.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/profil-disc"
+    },
+    {
+      "slug": "fenetre-johari",
+      "name": "Fenêtre de Johari",
+      "shortName": "Fenêtre de Johari",
+      "category": "cognition",
+      "authors": [
+        "Joseph Luft",
+        "Harrington Ingham"
+      ],
+      "yearFounded": 1955,
+      "description": "Outil pédagogique de conscience de soi et de feedback interpersonnel (et non un modèle clinique) représentant quatre zones : zone ouverte (connue de soi et des autres), aveugle (connue des autres seulement), cachée (connue de soi seulement) et inconnue. Le feedback et la divulgation agrandissent la zone ouverte.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/fenetre-johari"
+    },
+    {
+      "slug": "firo-schutz",
+      "name": "FIRO (besoins interpersonnels, Schutz)",
+      "shortName": "FIRO (Schutz)",
+      "category": "couple",
+      "authors": [
+        "William Schutz"
+      ],
+      "yearFounded": 1958,
+      "description": "Cadre appliqué décrivant trois besoins interpersonnels fondamentaux qui orientent les relations : Inclusion (appartenir), Contrôle (influence et pouvoir) et Affection (proximité émotionnelle). Pour chaque besoin, on distingue ce que la personne exprime et ce qu'elle désire recevoir. Outil de typologie relationnelle, pas un modèle clinique validé.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/firo-schutz"
+    },
+    {
+      "slug": "roue-duluth",
+      "name": "Roue du pouvoir et du contrôle (Duluth)",
+      "shortName": "Roue de Duluth",
+      "category": "couple",
+      "authors": [
+        "Domestic Abuse Intervention Project (Duluth)"
+      ],
+      "yearFounded": 1984,
+      "description": "Modèle institutionnel et militant, issu du Domestic Abuse Intervention Project de Duluth, représentant les mécanismes de contrôle dans la violence conjugale (intimidation, isolement, minimisation, chantage affectif, contrôle économique, etc.). C'est un outil d'intervention et de prévention, pas un modèle empirique ; son approche centrée sur le genre a fait l'objet de critiques.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/roue-duluth"
+    },
+    {
+      "slug": "theorie-polyvagale",
+      "name": "Théorie polyvagale (Porges)",
+      "shortName": "Polyvagale (Porges)",
+      "category": "trauma",
+      "authors": [
+        "Stephen Porges"
+      ],
+      "yearFounded": 2011,
+      "description": "Théorie neurophysiologique proposée par Stephen Porges reliant l'état du système nerveux autonome (engagement social « ventral », mobilisation « sympathique », figement « dorsal ») au vécu de sécurité ou de menace. Certains de ses fondements physiologiques sont débattus et contestés dans la littérature scientifique récente : elle est à présenter comme une grille de lecture proposée, et non comme un consensus établi.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/theorie-polyvagale"
+    },
+    {
+      "slug": "rds-deregulation-emotionnelle",
+      "name": "Dérégulation émotionnelle dans le TDAH",
+      "shortName": "Dérégulation émotionnelle (TDAH)",
+      "category": "adhd",
+      "authors": [
+        "Philip Shaw",
+        "Argyris Stringaris",
+        "Joel Nigg",
+        "Ellen Leibenluft"
+      ],
+      "yearFounded": 2014,
+      "description": "Cadre soulignant que la dérégulation émotionnelle — réactivité émotionnelle intense, lenteur du retour au calme, faible autorégulation affective — est une composante fréquente et centrale du TDAH, au-delà de l'inattention et de l'hyperactivité. Elle contribue au retentissement relationnel et fonctionnel du trouble.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/rds-deregulation-emotionnelle"
+    },
+    {
+      "slug": "sct-cds",
+      "name": "Tempo cognitif lent (SCT / Cognitive Disengagement Syndrome)",
+      "shortName": "Tempo cognitif lent (SCT/CDS)",
+      "category": "adhd",
+      "authors": [
+        "Stephen Becker"
+      ],
+      "yearFounded": 2016,
+      "description": "Profil attentionnel marqué par la rêverie, la lenteur, le « brouillard mental » et l'hypoactivité, distinct de l'inattention TDAH classique. Décrit sous le nom de « Sluggish Cognitive Tempo » (SCT), il a été renommé « Cognitive Disengagement Syndrome » (CDS) en 2023, pour mieux refléter sa nature et réduire la connotation péjorative du terme « sluggish ». Construit encore en cours de validation et de délimitation.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/sct-cds"
+    },
+    {
+      "slug": "cycle-pulsionnel",
+      "name": "Cycle pulsionnel (troubles du contrôle des impulsions)",
+      "shortName": "Cycle pulsionnel",
+      "category": "impulse",
+      "authors": [
+        "Cadre nosographique (DSM-5)"
+      ],
+      "yearFounded": 2013,
+      "description": "Schéma phénoménologique commun aux troubles du contrôle des impulsions, décrit dans le cadre nosographique du DSM-5 : une tension interne croissante précède le passage à l'acte, suivi d'un soulagement, puis souvent de culpabilité ou de honte. Il ne s'agit pas d'une théorie attribuée à un auteur fondateur unique, mais d'une description clinique partagée par plusieurs troubles (achats compulsifs, jeu, etc.).",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/cycle-pulsionnel"
+    },
+    {
+      "slug": "big-five-ffm",
+      "name": "Big Five / Modèle à cinq facteurs (FFM)",
+      "shortName": "Big Five / FFM",
+      "category": "personality",
+      "authors": [
+        "Paul Costa",
+        "Robert McCrae",
+        "Lewis Goldberg"
+      ],
+      "yearFounded": 1992,
+      "description": "Modèle dimensionnel de la personnalité organisé autour de cinq grands facteurs : Ouverture, Conscienciosité, Extraversion, Agréabilité et Neuroticisme. Il résulte de la convergence de deux traditions distinctes : l'approche factorielle par questionnaires (Costa & McCrae, NEO-PI-R) et l'approche lexicale fondée sur les adjectifs du langage naturel (Goldberg, marqueurs Big-Five et IPIP). C'est l'un des modèles de personnalité les mieux validés empiriquement.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/big-five-ffm"
+    },
+    {
+      "slug": "dsm5-tr-tdah",
+      "name": "Cadre diagnostique du TDAH (DSM-5-TR)",
+      "shortName": "TDAH (DSM-5-TR)",
+      "category": "adhd",
+      "authors": [
+        "American Psychiatric Association"
+      ],
+      "yearFounded": 2022,
+      "description": "Cadre nosographique de référence du TDAH dans le DSM-5-TR. Il organise le trouble autour de deux dimensions (l'inattention d'une part, l'hyperactivité-impulsivité d'autre part) et distingue trois présentations (à prédominance inattentive, à prédominance hyperactive-impulsive, et combinée). Le cadre suppose une apparition des difficultés dans l'enfance, leur caractère transversal (présentes dans plusieurs contextes de vie) et un retentissement fonctionnel. À utiliser comme lecture indicative, jamais comme un diagnostic.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/dsm5-tr-tdah"
+    },
+    {
+      "slug": "ampd-dsm5",
+      "name": "Modèle alternatif des troubles de la personnalité (AMPD)",
+      "shortName": "AMPD (DSM-5)",
+      "category": "personality",
+      "authors": [
+        "American Psychiatric Association"
+      ],
+      "yearFounded": 2013,
+      "description": "Modèle dimensionnel proposé dans la Section III du DSM-5 comme alternative à l'approche catégorielle des troubles de la personnalité. Il s'articule en deux volets : (a) une évaluation du niveau de fonctionnement de la personnalité, sur les axes du rapport à soi et du rapport aux autres ; (b) cinq grands domaines de traits pathologiques. À utiliser comme grille de lecture indicative.",
+      "detail_url": "https://psychologieetserenite.com/api/v1/concepts/ampd-dsm5"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "emotional-hypervigilance-always-expecting-the-worst-in-a-relationship",
+      "title": "Emotional Hypervigilance: Always Expecting the Worst in a Relationship",
+      "description": "You check your phone ten times an hour and one curt message sparks hours of dread. Understand emotional hypervigilance in couples and how CBT eases it.",
+      "date": "2026-10-18",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/emotional-hypervigilance-always-expecting-the-worst-in-a-relationship",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/emotional-hypervigilance-always-expecting-the-worst-in-a-relationship?lang=en"
+    },
+    {
+      "slug": "rumination-in-couples-breaking-the-negative-thought-loop-together",
+      "title": "Rumination in Couples: Breaking the Negative Thought Loop Together",
+      "description": "You lie down beside your partner and your mind races. Discover CBT tools to break the rumination loop in your relationship, together.",
+      "date": "2026-10-16",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/rumination-in-couples-breaking-the-negative-thought-loop-together",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/rumination-in-couples-breaking-the-negative-thought-loop-together?lang=en"
+    },
+    {
+      "slug": "social-anxiety-and-cbt-5-techniques-to-regain-confidence-in-public-situations",
+      "title": "Social Anxiety and CBT: 5 Techniques to Regain Confidence in Public",
+      "description": "Social anxiety is more than shyness. Discover 5 proven CBT techniques to reduce the fear of judgment and regain confidence in social situations.",
+      "date": "2026-10-14",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/social-anxiety-and-cbt-5-techniques-to-regain-confidence-in-public-situations",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/social-anxiety-and-cbt-5-techniques-to-regain-confidence-in-public-situations?lang=en"
+    },
+    {
+      "slug": "emotional-avoidance-how-running-away-makes-anxiety-worse",
+      "title": "Emotional Avoidance: How Running Away Makes Anxiety Worse",
+      "description": "Anxiety is an unpleasant emotion, and the natural reaction is to move away from it. Learn how emotional avoidance feeds anxiety and how CBT breaks the cycle.",
+      "date": "2026-10-08",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/emotional-avoidance-how-running-away-makes-anxiety-worse",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/emotional-avoidance-how-running-away-makes-anxiety-worse?lang=en"
+    },
+    {
+      "slug": "mental-rumination-why-you-loop-and-how-to-stop",
+      "title": "Mental Rumination: Why You Go Round in Circles and How to Stop",
+      "description": "You lie down and your mind starts racing, replaying a remark, an awkward talk, a regret. Understand mental rumination and break the loop with five CBT tools.",
+      "date": "2026-10-07",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/mental-rumination-why-you-loop-and-how-to-stop",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/mental-rumination-why-you-loop-and-how-to-stop?lang=en"
+    },
+    {
+      "slug": "nonviolent-communication-turning-conflict-into-connection",
+      "title": "Nonviolent Communication: Turning Conflict into Connection",
+      "description": "Most conflicts are not born of irreconcilable differences but of the gap between what we say and what is heard. Learn nonviolent communication, step by step.",
+      "date": "2026-10-06",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/nonviolent-communication-turning-conflict-into-connection",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/nonviolent-communication-turning-conflict-into-connection?lang=en"
+    },
+    {
+      "slug": "pathological-perfectionism-when-excellence-becomes-a-prison",
+      "title": "Pathological Perfectionism: When Excellence Becomes a Prison",
+      "description": "Perfectionism has a good reputation. In a society that prizes performance, aiming for excellence seems not only desirable but necessary. Yet there is a line",
+      "date": "2026-10-04",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/pathological-perfectionism-when-excellence-becomes-a-prison",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/pathological-perfectionism-when-excellence-becomes-a-prison?lang=en"
+    },
+    {
+      "slug": "negative-automatic-thoughts-identify-and-restructure",
+      "title": "Negative Automatic Thoughts: How to Identify and Restructure Them",
+      "description": "Negative automatic thoughts surface without warning and pose as facts. Learn to spot them, name the distortions and restructure them with CBT exercises.",
+      "date": "2026-10-03",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/negative-automatic-thoughts-identify-and-restructure",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/negative-automatic-thoughts-identify-and-restructure?lang=en"
+    },
+    {
+      "slug": "emotional-dependency-regain-emotional-autonomy",
+      "title": "Emotional Dependency: How to Regain Your Emotional Autonomy",
+      "description": "Emotional dependency is a behavioral and cognitive pattern rooted in early life. Learn how CBT helps you restructure it and regain your autonomy.",
+      "date": "2026-10-02",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/emotional-dependency-regain-emotional-autonomy",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/emotional-dependency-regain-emotional-autonomy?lang=en"
+    },
+    {
+      "slug": "chronic-procrastination-an-anxiety-symptom-to-treat",
+      "title": "Chronic procrastination: an anxiety symptom that deserves treatment",
+      "description": "Chronic procrastination is rarely laziness. Learn how avoidance feeds anxiety and which three CBT exercises help you break the cycle.",
+      "date": "2026-10-01",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/chronic-procrastination-an-anxiety-symptom-to-treat",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/chronic-procrastination-an-anxiety-symptom-to-treat?lang=en"
+    },
+    {
+      "slug": "conversation-analysis-decoding-toxic-relationship-patterns",
+      "title": "Conversation Analysis: Decoding Toxic Relationship Patterns",
+      "description": "Every day we exchange hundreds of messages. A single text, a tone in an email, an unanswered message: small details that carry our relationship patterns.",
+      "date": "2026-09-30",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/conversation-analysis-decoding-toxic-relationship-patterns",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/conversation-analysis-decoding-toxic-relationship-patterns?lang=en"
+    },
+    {
+      "slug": "sexual-orientation-and-identity-untangling-confusion-and-certainty-with-cbt",
+      "title": "Sexual Orientation and Identity: Untangling Confusion and Certainty with CBT",
+      "description": "Sexual orientation and gender identity are fundamental parts of who we are, yet many people go through periods of confusion and doubt. CBT can help.",
+      "date": "2026-09-29",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/sexual-orientation-and-identity-untangling-confusion-and-certainty-with-cbt",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/sexual-orientation-and-identity-untangling-confusion-and-certainty-with-cbt?lang=en"
+    },
+    {
+      "slug": "feminine-masculine-energy-quiz",
+      "title": "Feminine and Masculine Energy: The Quiz That Explores Your Inner Balance",
+      "description": "Explore your feminine and masculine energy — receptivity, assertiveness, balance, freedom of expression — present in everyone, with no gender hierarchy.",
+      "date": "2026-09-27",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/feminine-masculine-energy-quiz",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/feminine-masculine-energy-quiz?lang=en"
+    },
+    {
+      "slug": "four-agreements-quiz",
+      "title": "The Four Agreements Quiz: What Don Miguel Ruiz's Framework Changes in Daily Life",
+      "description": "Don Miguel Ruiz's four toltec agreements, plus the fifth, explained one by one — impeccable word, not taking things personally, no assumptions — and what a quiz can reveal about your own pattern.",
+      "date": "2026-09-27",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/four-agreements-quiz",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/four-agreements-quiz?lang=en"
+    },
+    {
+      "slug": "aitana-bonmati-womens-football-psychology",
+      "title": "Aitana Bonmatí and Women's Football: What Sport Psychology Says",
+      "description": "Aitana Bonmatí, Marta, Ada Hegerberg: the mechanisms that separate great football careers don't depend on any characteristic unique to men's football. What the research shows.",
+      "date": "2026-09-08",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/aitana-bonmati-womens-football-psychology",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/aitana-bonmati-womens-football-psychology?lang=en"
+    },
+    {
+      "slug": "cbt-protocol-8-weeks-amateur-football",
+      "title": "An 8-Week CBT Protocol for Amateur Footballers: What It Can Really Deliver",
+      "description": "Six psychological skills, one notebook, eight weeks. A CBT protocol adapted for amateur football, built for a developing player or the parent supporting them — with no promise of sporting results.",
+      "date": "2026-09-07",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/cbt-protocol-8-weeks-amateur-football",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/cbt-protocol-8-weeks-amateur-football?lang=en"
+    },
+    {
+      "slug": "football-talent-scouting-why-it-fails",
+      "title": "Talent Scouting in Football: Why It Gets the Most Interesting Cases Wrong",
+      "description": "Scouting measures height, speed and physical maturity — exactly the criteria research finds least reliable for predicting long-term success. What the research actually establishes.",
+      "date": "2026-09-06",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/football-talent-scouting-why-it-fails",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/football-talent-scouting-why-it-fails?lang=en"
+    },
+    {
+      "slug": "matthias-schoenaerts",
+      "title": "Schoenaerts and Hasselbank: Their Son's Birth, Told with Discretion",
+      "description": "Matthias Schoenaerts and Zoey Hasselbank are parents to a son. A look at a birth lived with discretion, and at what we choose to say or keep quiet.",
+      "date": "2026-09-06",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/matthias-schoenaerts",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/matthias-schoenaerts?lang=en"
+    },
+    {
+      "slug": "messi-mbappe-football-psychology-talent-myth",
+      "title": "From Messi to Mbappé: Nobody Could Have Predicted Who'd Make It",
+      "description": "Messi, Ronaldo, Mbappé, Zidane, Bonmatí: what psychology actually knows about elite footballers, and why talent scouting keeps getting it wrong.",
+      "date": "2026-09-06",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/messi-mbappe-football-psychology-talent-myth",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/messi-mbappe-football-psychology-talent-myth?lang=en"
+    },
+    {
+      "slug": "arz-kiya-hai-the-courage-to-love-despite-self-doubt",
+      "title": "Arz Kiya Hai: What India's Number One Song Reveals About Loving Someone While Doubting You're Enough",
+      "description": "Arz Kiya Hai, Anuv Jain's Coke Studio Bharat track and Spotify India's most-streamed song, is built around a lover who admits he's no Ghalib or Faiz — and writes to his beloved anyway. What that admission reveals about self-esteem, self-disclosure, and the courage it takes to say how you feel.",
+      "date": "2026-09-05",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/arz-kiya-hai-the-courage-to-love-despite-self-doubt",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/arz-kiya-hai-the-courage-to-love-despite-self-doubt?lang=en"
+    },
+    {
+      "slug": "football-non-selection-rejection-psychology",
+      "title": "Cut From the Team: How Great Players Handle Rejection",
+      "description": "Getting cut touches most players, including future professionals. What separates a career that bounces back from one that stalls isn't how much the rejection hurts.",
+      "date": "2026-09-05",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/football-non-selection-rejection-psychology",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/football-non-selection-rejection-psychology?lang=en"
+    },
+    {
+      "slug": "kusha-kapila",
+      "title": "Kusha Kapila's Divorce and Co-Parenting Story",
+      "description": "Kusha Kapila announced her divorce from Zorawar Ahluwalia in 2023 and committed to co-parenting their daughter, Maya. What her story reveals about divorce and public speculation today.",
+      "date": "2026-09-05",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/kusha-kapila",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/kusha-kapila?lang=en"
+    },
+    {
+      "slug": "rein-me-in-sam-fender-fear-of-intimacy",
+      "title": "Rein Me In: What Sam Fender's Record-Breaking Song Reveals About Fear of Intimacy",
+      "description": "Sam Fender and Olivia Dean's 'Rein Me In' has spent longer at UK number one than any single in chart history. Its lyrics describe someone too afraid of love to let it hold him. What that fear looks like, and why it sabotages the closeness it claims to want.",
+      "date": "2026-09-05",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/rein-me-in-sam-fender-fear-of-intimacy",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/rein-me-in-sam-fender-fear-of-intimacy?lang=en"
+    },
+    {
+      "slug": "every-breath-you-take-the-police-psychological-analysis",
+      "title": "Every Breath You Take: The Police Song That Sounds Like Love and Isn't",
+      "description": "Sting himself calls it sinister, not romantic. What the world's most-played radio song reveals about mistaking surveillance for love.",
+      "date": "2026-09-04",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/every-breath-you-take-the-police-psychological-analysis",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/every-breath-you-take-the-police-psychological-analysis?lang=en"
+    },
+    {
+      "slug": "football-injury-psychology-rehabilitation",
+      "title": "Football Injury: The Psychology of Rehab, Beyond the Healed Knee",
+      "description": "After a serious injury, the body heals at its own pace. But 76.7% of athletes who never return to their previous level cite fear of re-injury, not their knee. What the research says.",
+      "date": "2026-09-04",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/football-injury-psychology-rehabilitation",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/football-injury-psychology-rehabilitation?lang=en"
+    },
+    {
+      "slug": "tombe-la-neige-adamo-psychology-of-waiting-in-love",
+      "title": "\"Tombe la neige\": 4 Keys to the Psychology of Waiting in Love",
+      "description": "Since 1963, Adamo's \"Tombe la neige\" has told of waiting for someone who doesn't come. What this scene says about rumination, hope and ambiguous grief in love.",
+      "date": "2026-09-04",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/tombe-la-neige-adamo-psychology-of-waiting-in-love",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/tombe-la-neige-adamo-psychology-of-waiting-in-love?lang=en"
+    },
+    {
+      "slug": "tum-hi-ho-losing-yourself-in-someone-else",
+      "title": "Tum Hi Ho: What Bollywood's Most Iconic Love Song Reveals About Losing Yourself in Someone Else",
+      "description": "Tum Hi Ho, the title track of Aashiqui 2 and one of the most-streamed Bollywood songs of the decade, frames a partner as the whole of one's existence. What that theme reveals about the line between devotion and emotional dependency.",
+      "date": "2026-09-04",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/tum-hi-ho-losing-yourself-in-someone-else",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/tum-hi-ho-losing-yourself-in-someone-else?lang=en"
+    },
+    {
+      "slug": "alia-bhatt",
+      "title": "Alia Bhatt's Relationship History: From an Unconfirmed Rumor to Marriage with Ranbir Kapoor",
+      "description": "Alia Bhatt's documented relationship history: an unconfirmed relationship with Sidharth Malhotra, then a relationship with Ranbir Kapoor announced publicly by him in 2018, a private 2022 wedding, and their daughter Raha.",
+      "date": "2026-09-03",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/alia-bhatt",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/alia-bhatt?lang=en"
+    },
+    {
+      "slug": "deliberate-practice-10000-hours-myth-football",
+      "title": "Deliberate Practice: Why 10,000 Hours Isn't Enough (And What Actually Matters)",
+      "description": "The 10,000-hour rule is a widely misunderstood myth. A meta-analysis shows deliberate practice explains only 18% of the performance gap in sport. What actually matters.",
+      "date": "2026-09-03",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/deliberate-practice-10000-hours-myth-football",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/deliberate-practice-10000-hours-myth-football?lang=en"
+    },
+    {
+      "slug": "wizkid",
+      "title": "Wizkid: The Career That Made Afrobeats a Global Genre",
+      "description": "Wizkid's decade of Afrobeats firsts — from 'One Dance' with Drake to 'Essence' with Tems — and the family story that unfolded alongside a record-breaking career.",
+      "date": "2026-09-03",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/wizkid",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/wizkid?lang=en"
+    },
+    {
+      "slug": "alice-phoebe-lou",
+      "title": "Alice Phoebe Lou: The Psychology of Choosing to Stay Independent",
+      "description": "Born near Cape Town, Alice Phoebe Lou self-funded an Oscar-shortlisted career outside the label system for most of a decade. What her repeated choice to stay independent reveals — and what changed on her sixth album.",
+      "date": "2026-09-02",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/alice-phoebe-lou",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/alice-phoebe-lou?lang=en"
+    },
+    {
+      "slug": "france-national-team-collective-mindset-football",
+      "title": "France's National Team: What Sport Psychology Says About Collective Mindset",
+      "description": "A national team's mentality isn't some mysterious collective spirit. What sport psychology research actually identifies in how a group regulates itself under pressure.",
+      "date": "2026-09-02",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/france-national-team-collective-mindset-football",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/france-national-team-collective-mindset-football?lang=en"
+    },
+    {
+      "slug": "pele-mindset-psychological-legacy",
+      "title": "Pelé: What His Mindset Built, Through the Lens of Sport Psychology",
+      "description": "Pelé learned to play with a ball made from a sock, in the streets of Bauru. What sport psychology research now says about that kind of upbringing, and its limits.",
+      "date": "2026-09-01",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/pele-mindset-psychological-legacy",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/pele-mindset-psychological-legacy?lang=en"
+    },
+    {
+      "slug": "goat-football-messi-ronaldo-pele-mindset",
+      "title": "Football's GOAT Debate: What Sport Psychology Really Says About Messi, Ronaldo and Pelé",
+      "description": "Who's the greatest? The GOAT debate usually runs on stats. Sport psychology asks a different question: which mental mechanisms actually set these careers apart.",
+      "date": "2026-08-31",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/goat-football-messi-ronaldo-pele-mindset",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/goat-football-messi-ronaldo-pele-mindset?lang=en"
+    },
+    {
+      "slug": "tate-mcrae",
+      "title": "Tate McRae's Dating History: Cole Sillinger, The Kid Laroi, and Jack Hughes",
+      "description": "Tate McRae's documented dating history: NHL player Cole Sillinger, The Kid Laroi, and NHL player Jack Hughes — what's actually confirmed, in order.",
+      "date": "2026-08-31",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/tate-mcrae",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/tate-mcrae?lang=en"
+    },
+    {
+      "slug": "introversion-footballers-sport-psychology",
+      "title": "Introversion in Footballers: What Sport Psychology Actually Says",
+      "description": "An introverted footballer doesn't have a weaker mind than anyone else. What sport psychology and the Big Five model actually say about personality under pressure.",
+      "date": "2026-08-30",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/introversion-footballers-sport-psychology",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/introversion-footballers-sport-psychology?lang=en"
+    },
+    {
+      "slug": "kartik-aaryan",
+      "title": "Kartik Aaryan: Why He Never Talks About His Relationships",
+      "description": "Kartik Aaryan has never confirmed a relationship despite years of recurring dating rumors. What his stated policy of total silence reveals about privacy and boundaries under public pressure.",
+      "date": "2026-08-30",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/kartik-aaryan",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/kartik-aaryan?lang=en"
+    },
+    {
+      "slug": "liam-hemsworth",
+      "title": "Liam Hemsworth's Relationship Timeline: Miley Cyrus to Gabriella Brooks",
+      "description": "The complete Liam Hemsworth relationship timeline: his decade-long romance and divorce from Miley Cyrus, and the 2025 engagement to Gabriella Brooks that followed.",
+      "date": "2026-08-29",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/liam-hemsworth",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/liam-hemsworth?lang=en"
+    },
+    {
+      "slug": "catherine-kamau",
+      "title": "Catherine Kamau (Kate Actress): Kenya's Mother-in-Law Star, On Screen and Off",
+      "description": "Catherine Kamau (Kate Actress): her two-decade Kenyan TV career, two Kalasha Awards, and the 2023 divorce from Philip Karanja after six years of marriage.",
+      "date": "2026-08-28",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/catherine-kamau",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/catherine-kamau?lang=en"
+    },
+    {
+      "slug": "damiano-david",
+      "title": "Damiano David's Relationship Timeline: From Giorgia Soleri to Dove Cameron",
+      "description": "The complete Damiano David relationship timeline: girlfriend Giorgia Soleri over six years, the 2023 split, and the January 2026 engagement to Dove Cameron that followed, dates and facts only.",
+      "date": "2026-08-27",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/damiano-david",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/damiano-david?lang=en"
+    },
+    {
+      "slug": "rebuilding-after-a-controlling-relationship-a-cbt-path-to-freedom",
+      "title": "Rebuilding After a Controlling Relationship: A CBT Path to Freedom",
+      "description": "Just left a controlling relationship? Discover 5 CBT steps to name the trauma, rebuild self-esteem, restore boundaries and avoid repeating the pattern.",
+      "date": "2026-08-26",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/rebuilding-after-a-controlling-relationship-a-cbt-path-to-freedom",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/rebuilding-after-a-controlling-relationship-a-cbt-path-to-freedom?lang=en"
+    },
+    {
+      "slug": "abbie-chatfield-konrad-bien-stephen-open-relationship",
+      "title": "Abbie Chatfield and Konrad Bien-Stephen: Inside Their Open Relationship",
+      "description": "The documented story of Abbie Chatfield and Konrad Bien-Stephen's open relationship, their 2022 breakup, and Bien-Stephen's death in March 2026 — and what public non-monogamy reveals about reality-TV dating culture.",
+      "date": "2026-08-25",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/abbie-chatfield-konrad-bien-stephen-open-relationship",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/abbie-chatfield-konrad-bien-stephen-open-relationship?lang=en"
+    },
+    {
+      "slug": "need-to-control-everything-letting-go",
+      "title": "The Need to Control Everything: Where It Comes From, How to Let Go",
+      "description": "Where the need to control everything comes from, how it sabotages your life, and 5 concrete CBT exercises to gradually learn to let go.",
+      "date": "2026-08-25",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/need-to-control-everything-letting-go",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/need-to-control-everything-letting-go?lang=en"
+    },
+    {
+      "slug": "understanding-post-traumatic-stress-healing",
+      "title": "Understanding Post-Traumatic Stress and Beginning to Heal",
+      "description": "Post-traumatic stress is not a weakness but a normal brain response to an abnormal event. Understand the mechanism and the paths to recovery.",
+      "date": "2026-08-24",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/understanding-post-traumatic-stress-healing",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/understanding-post-traumatic-stress-healing?lang=en"
+    },
+    {
+      "slug": "i-forgive-you",
+      "title": "I forgive you",
+      "description": "Forgiving is not forgetting, excusing, or staying. What forgiveness actually does, who benefits from it, and why premature forgiveness makes things worse.",
+      "date": "2026-08-23",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/i-forgive-you",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/i-forgive-you?lang=en"
+    },
+    {
+      "slug": "overcoming-fear-of-other-peoples-judgement",
+      "title": "Freeing yourself from the fear of other people's judgement",
+      "description": "The fear of being judged paralyses us, makes us say yes when we mean no, and costs us our authenticity. Five CBT strategies to break free from it.",
+      "date": "2026-08-23",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/overcoming-fear-of-other-peoples-judgement",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/overcoming-fear-of-other-peoples-judgement?lang=en"
+    },
+    {
+      "slug": "a-bad-performance-review-the-next-48-hours",
+      "title": "A Bad Performance Review: The Next 48 Hours",
+      "description": "What is at stake in the two days after a negative performance review: what not to do in the heat of it, how to sort the criticisms, the written reply that counts, and the attribution mechanism that decides what follows.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/a-bad-performance-review-the-next-48-hours",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/a-bad-performance-review-the-next-48-hours?lang=en"
+    },
+    {
+      "slug": "a-coworker-you-clash-with-and-cannot-avoid-where-to-start",
+      "title": "A Coworker You Clash With and Cannot Avoid: Where to Start",
+      "description": "A peer relationship carries no authority and no hierarchical protection. How to describe what is happening in behaviours rather than in a character sketch, and the five levers actually available between equals.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/a-coworker-you-clash-with-and-cannot-avoid-where-to-start",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/a-coworker-you-clash-with-and-cannot-avoid-where-to-start?lang=en"
+    },
+    {
+      "slug": "a-workplace-conflict-that-drags-on-who-to-turn-to-and-mediation",
+      "title": "A Workplace Conflict That Drags On: Who to Turn to, and What Mediation Really Does",
+      "description": "When the direct conversation has failed: which people you can turn to, in what order, what mediation can and cannot produce, and how to prepare a record of facts.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/a-workplace-conflict-that-drags-on-who-to-turn-to-and-mediation",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/a-workplace-conflict-that-drags-on-who-to-turn-to-and-mediation?lang=en"
+    },
+    {
+      "slug": "am-i-illegitimate-or-am-i-over-reading-it",
+      "title": "Am I Really Not Good Enough, or Am I Over-Reading It?",
+      "description": "The one question nobody can settle alone: the measuring instrument and the thing measured are the same person. The mechanisms that manufacture a reading of illegitimacy, and what an outside source changes.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/am-i-illegitimate-or-am-i-over-reading-it",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/am-i-illegitimate-or-am-i-over-reading-it?lang=en"
+    },
+    {
+      "slug": "asking-for-a-raise-the-right-time",
+      "title": "Asking for a Raise: When to Do It, and When Not To",
+      "description": "The right moment to ask for a raise isn't a month on a calendar. It's the meeting point of a dated record of facts, a budget cycle still open, and a manager who actually holds the margin.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/asking-for-a-raise-the-right-time",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/asking-for-a-raise-the-right-time?lang=en"
+    },
+    {
+      "slug": "avoiding-conflict-at-work-the-costliest-strategy",
+      "title": "Avoiding Conflict at Work: the Costliest Strategy of All",
+      "description": "Avoidance is the most used and least evaluated way of handling conflict at work. What it genuinely saves, what it costs six months later, and the four situations where it remains the right choice.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/avoiding-conflict-at-work-the-costliest-strategy",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/avoiding-conflict-at-work-the-costliest-strategy?lang=en"
+    },
+    {
+      "slug": "brain-fog-after-burnout-memory-and-concentration",
+      "title": "Brain Fog After Burnout: Memory, Concentration, and the Words That Go Missing",
+      "description": "Reading the same paragraph three times, losing an everyday word, no longer being able to sit through an hour-long meeting: what research has measured about cognitive functions in work-related burnout, and what it does not allow anyone to conclude.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/brain-fog-after-burnout-memory-and-concentration",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/brain-fog-after-burnout-memory-and-concentration?lang=en"
+    },
+    {
+      "slug": "burnout-in-care-and-social-work",
+      "title": "Care and Social Work: Why Burnout There Is Structural",
+      "description": "Permanent emotional labour, resources below need, guilt at stopping: what makes exhaustion structural in healthcare, social work and early years — and what that changes for leave and for the return.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/burnout-in-care-and-social-work",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/burnout-in-care-and-social-work?lang=en"
+    },
+    {
+      "slug": "burnout-in-the-public-sector-a-different-route",
+      "title": "Burnout in the Public Sector: A Different Administrative Route",
+      "description": "Sick-leave categories, service-attributable illness, medical boards, occupational health, phased return: why a public servant's leave and return do not follow the private-sector route.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/burnout-in-the-public-sector-a-different-route",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/burnout-in-the-public-sector-a-different-route?lang=en"
+    },
+    {
+      "slug": "burnout-relapse-why-the-third-month",
+      "title": "Burnout Relapse: Why It So Often Happens in the Third Month Back",
+      "description": "The most exposed moment is not the return to work but the third month that follows: adjustments fade, colleagues consider the episode closed, and the load rebuilds itself without any decision. The early signals, and what precedes them.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/burnout-relapse-why-the-third-month",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/burnout-relapse-why-the-third-month?lang=en"
+    },
+    {
+      "slug": "burnout-when-stopping-is-not-an-option-freelancers-and-founders",
+      "title": "Burnout When Stopping Is Not an Option: Freelancers, Founders, Self-Employed Professionals",
+      "description": "No occupational health service, no work collective, different sick-pay rules and a business that stops when you do: what is genuinely missing when you work for yourself, and what can be rebuilt another way.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/burnout-when-stopping-is-not-an-option-freelancers-and-founders",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/burnout-when-stopping-is-not-an-option-freelancers-and-founders?lang=en"
+    },
+    {
+      "slug": "burnout-who-to-consult-and-in-what-order",
+      "title": "Burnout: Who to Consult, and in What Order",
+      "description": "Family doctor, occupational health doctor, psychologist, employee representatives, labour inspectorate, lawyer: what each can actually do, what they cannot, and the order that saves months.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/burnout-who-to-consult-and-in-what-order",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/burnout-who-to-consult-and-in-what-order?lang=en"
+    },
+    {
+      "slug": "defusing-a-conflict-at-work-without-backing-down",
+      "title": "Defusing a Conflict at Work Without Backing Down: A Five-Step Sequence",
+      "description": "Defusing is not conceding. Identify the escalation stage you have reached, choose the register of your response, and run the conversation in five steps — with what can be dated and verified.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/defusing-a-conflict-at-work-without-backing-down",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/defusing-a-conflict-at-work-without-backing-down?lang=en"
+    },
+    {
+      "slug": "empty-days-what-to-do-during-long-term-sick-leave",
+      "title": "The Empty Day: How the Weeks of Long-Term Sick Leave Actually Go",
+      "description": "Nobody warns you that long-term leave produces empty days. The three phases people describe, the trap of total rest, and the guilt around week three.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/empty-days-what-to-do-during-long-term-sick-leave",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/empty-days-what-to-do-during-long-term-sick-leave?lang=en"
+    },
+    {
+      "slug": "environments-that-manufacture-illegitimacy",
+      "title": "When It Isn't the Syndrome: Environments That Manufacture Illegitimacy",
+      "description": "Sometimes feeling illegitimate isn't a distortion: it is an accurate reading of a real environment. Five configurations that produce it, and why working on yourself changes nothing there.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/environments-that-manufacture-illegitimacy",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/environments-that-manufacture-illegitimacy?lang=en"
+    },
+    {
+      "slug": "expressing-anger-relationship-without-hurting",
+      "title": "Expressing Anger in Your Relationship Without Hurting",
+      "description": "Anger is natural, legitimate and, for CBT therapists, an important signal. In a relationship it can turn destructive when it is left unregulated.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/expressing-anger-relationship-without-hurting",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/expressing-anger-relationship-without-hurting?lang=en"
+    },
+    {
+      "slug": "feeling-illegitimate-after-a-promotion",
+      "title": "Feeling Illegitimate After a Promotion",
+      "description": "Promotion is the most common trigger of legitimacy doubt — for a good reason: you don't move up in your job, you change jobs. How to tell 'I can't do this yet' from 'I don't belong here'.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/feeling-illegitimate-after-a-promotion",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/feeling-illegitimate-after-a-promotion?lang=en"
+    },
+    {
+      "slug": "five-types-of-workplace-conflict-and-their-remedies",
+      "title": "The Five Types of Workplace Conflict, and the Remedy Specific to Each",
+      "description": "Task, process, relationship, values, loyalty: five kinds of conflict that do not call for the same response. How to tell them apart through observable indicators, and why applying the wrong remedy makes things worse.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/five-types-of-workplace-conflict-and-their-remedies",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/five-types-of-workplace-conflict-and-their-remedies?lang=en"
+    },
+    {
+      "slug": "gross-or-net-which-figure-to-negotiate",
+      "title": "Gross or Take-Home: Which Figure to Negotiate, and Why It Changes the Outcome",
+      "description": "Pay negotiations run on gross annual figures, for a mechanical reason: it is the only unit the employer controls. Why reasoning in take-home pay manufactures costly misunderstandings, and how to compare two offers properly.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/gross-or-net-which-figure-to-negotiate",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/gross-or-net-which-figure-to-negotiate?lang=en"
+    },
+    {
+      "slug": "how-did-the-year-go-for-you-what-to-answer-in-a-performance-review",
+      "title": "\"How Did the Year Go for You?\" What to Answer in a Performance Review Without Sabotaging Yourself",
+      "description": "The trickiest opening question in a performance review: what it is really asking, the three-part answer that works, and the five replies that cost you dearly.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/how-did-the-year-go-for-you-what-to-answer-in-a-performance-review",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/how-did-the-year-go-for-you-what-to-answer-in-a-performance-review?lang=en"
+    },
+    {
+      "slug": "how-long-does-burnout-recovery-take",
+      "title": "How Long Does It Take to Recover From Burnout? What the Data Allows Us to Say",
+      "description": "Published durations vary tenfold because they measure three different things: length of leave, ability to work again, and actual recovery. What the research supports, what it does not, and the three factors that weigh most.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/how-long-does-burnout-recovery-take",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/how-long-does-burnout-recovery-take?lang=en"
+    },
+    {
+      "slug": "how-much-to-ask-for-setting-your-salary-range",
+      "title": "How Much to Ask For: Setting Your Range Before You Open Your Mouth",
+      "description": "Two different numbers decide a pay negotiation: what the role is worth on the market, and what it is worth here. How to build a range, where to put the bottom, and why that bottom is not your walk-away.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/how-much-to-ask-for-setting-your-salary-range",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/how-much-to-ask-for-setting-your-salary-range?lang=en"
+    },
+    {
+      "slug": "how-to-resign-from-a-permanent-contract-france",
+      "title": "Resigning From a Permanent Contract (CDI) in France: The Steps",
+      "description": "How to resign from a French permanent contract: the sequence step by step, notice period, end-of-contract documents, and the checks to make before sending your letter.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/how-to-resign-from-a-permanent-contract-france",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/how-to-resign-from-a-permanent-contract-france?lang=en"
+    },
+    {
+      "slug": "how-to-respond-in-the-moment-at-work-without-escalating",
+      "title": "How to Respond in the Moment Without Escalating: Six Wordings That Give No Purchase",
+      "description": "What to say in the five seconds after an out-of-place remark, an interruption or a dig in a meeting — six tested wordings, what makes them hold, and the four replies that lose.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/how-to-respond-in-the-moment-at-work-without-escalating",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/how-to-respond-in-the-moment-at-work-without-escalating?lang=en"
+    },
+    {
+      "slug": "ignoring-a-coworker-what-it-solves-and-what-it-makes-worse",
+      "title": "Ignoring a Coworker: What It Solves and What It Makes Worse",
+      "description": "Withdrawal is the most common response to a difficult peer relationship. What it genuinely protects, the five effects it produces a few months later, and the difference between chosen withdrawal and avoidance.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/ignoring-a-coworker-what-it-solves-and-what-it-makes-worse",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/ignoring-a-coworker-what-it-solves-and-what-it-makes-worse?lang=en"
+    },
+    {
+      "slug": "impostor-syndrome-and-adhd",
+      "title": "Impostor Syndrome and ADHD",
+      "description": "When performance is uneven, competence becomes unpredictable to the person themselves — and the effort actually spent stays invisible to everyone else. What that trajectory produces at work.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/impostor-syndrome-and-adhd",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/impostor-syndrome-and-adhd?lang=en"
+    },
+    {
+      "slug": "impostor-syndrome-and-giftedness",
+      "title": "Impostor Syndrome and Giftedness: Why They So Often Go Together",
+      "description": "Early ease is poor preparation for effort: when succeeding cost nothing for years, having to work looks like proof of inadequacy. What that produces at work, and what actually shifts it.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/impostor-syndrome-and-giftedness",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/impostor-syndrome-and-giftedness?lang=en"
+    },
+    {
+      "slug": "impostor-syndrome-in-a-job-interview",
+      "title": "Impostor Syndrome in a Job Interview: What It Costs Before You Apply",
+      "description": "An interview asks you to assert your worth at the exact moment you doubt it most. What legitimacy doubt does to your applications, your preparation and your answers — and what actually shifts it.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/impostor-syndrome-in-a-job-interview",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/impostor-syndrome-in-a-job-interview?lang=en"
+    },
+    {
+      "slug": "impostor-syndrome-in-nurses-and-teachers",
+      "title": "Impostor Syndrome in Nurses and Teachers: Why These Two Jobs",
+      "description": "Two professions where a mistake lands on someone else, where evaluation stays diffuse and positive feedback is rare — and where feeling illegitimate follows very precise mechanisms that belong to no diagnosis.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/impostor-syndrome-in-nurses-and-teachers",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/impostor-syndrome-in-nurses-and-teachers?lang=en"
+    },
+    {
+      "slug": "impostor-syndrome-new-job-first-90-days",
+      "title": "Impostor Syndrome in a New Job: The First 90 Days",
+      "description": "Feeling incompetent in the first weeks of a new role is the rule, not the signal. What is normal, what isn't, and what to record from day one so you can actually decide on day 90.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/impostor-syndrome-new-job-first-90-days",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/impostor-syndrome-new-job-first-90-days?lang=en"
+    },
+    {
+      "slug": "impostor-syndrome-or-dunning-kruger",
+      "title": "Impostor Syndrome or Dunning-Kruger: Two Edges of the Same Axis",
+      "description": "Believing you are less competent than you are and believing you are more competent than you are share one problem: self-assessment. What Kruger and Dunning actually showed, and what popularisation made of it.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/impostor-syndrome-or-dunning-kruger",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/impostor-syndrome-or-dunning-kruger?lang=en"
+    },
+    {
+      "slug": "impostor-syndrome-why-competence-is-not-enough",
+      "title": "Impostor Syndrome: Why Competence Is Never Enough",
+      "description": "Collecting achievements does not dissolve the feeling of being a fraud, because the problem was never a shortage of evidence: it is how every piece of evidence gets reattributed.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/impostor-syndrome-why-competence-is-not-enough",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/impostor-syndrome-why-competence-is-not-enough?lang=en"
+    },
+    {
+      "slug": "is-burnout-an-occupational-illness",
+      "title": "Is Burnout Recognised as an Occupational Illness?",
+      "description": "Why work exhaustion appears in no schedule of occupational diseases, what that does not rule out, and what a recognition claim really demands in evidence, time and energy.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/is-burnout-an-occupational-illness",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/is-burnout-an-occupational-illness?lang=en"
+    },
+    {
+      "slug": "job-hunting-after-burnout-what-to-say-in-interviews",
+      "title": "Job Hunting After Burnout: What to Say, What to Keep to Yourself",
+      "description": "What you owe no employer, what can be said without justifying yourself, how to handle a gap in a CV, and the five questions to ask the recruiter so you don't walk back into the same environment.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/job-hunting-after-burnout-what-to-say-in-interviews",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/job-hunting-after-burnout-what-to-say-in-interviews?lang=en"
+    },
+    {
+      "slug": "loyalty-conflict-at-work-caught-between-team-and-management",
+      "title": "Loyalty Conflict at Work: Caught Between Your Team and Management",
+      "description": "Two legitimate commitments that contradict each other: what makes this position so exhausting, why it isn't a performance problem, and the five moves that make it bearable.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/loyalty-conflict-at-work-caught-between-team-and-management",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/loyalty-conflict-at-work-caught-between-team-and-management?lang=en"
+    },
+    {
+      "slug": "managing-conflict-in-your-team-as-a-manager",
+      "title": "Managing Conflict in Your Team as a Manager: A Seven-Step Approach",
+      "description": "What a manager can actually do about a conflict between two team members: diagnose before arbitrating, choose your role, run the conversation, and know when to hand it on.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/managing-conflict-in-your-team-as-a-manager",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/managing-conflict-in-your-team-as-a-manager?lang=en"
+    },
+    {
+      "slug": "money-during-long-term-sick-leave-the-questions-to-ask",
+      "title": "Money During Long-Term Sick Leave: The Questions to Ask, and Who to Ask",
+      "description": "The financial question is the one that keeps people awake during sick leave, and the one nobody dares to ask. The eight questions to put, the five people who can answer them, and why no article can give a figure.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/money-during-long-term-sick-leave-the-questions-to-ask",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/money-during-long-term-sick-leave-the-questions-to-ask?lang=en"
+    },
+    {
+      "slug": "mutual-termination-or-resignation-what-changes-france",
+      "title": "Mutual Termination or Resignation in France: What Changes for You",
+      "description": "France's rupture conventionnelle versus resignation: the concrete differences in procedure, timing, severance and entitlements — and how to decide without getting trapped in waiting.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/mutual-termination-or-resignation-what-changes-france",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/mutual-termination-or-resignation-what-changes-france?lang=en"
+    },
+    {
+      "slug": "negotiating-pay-on-an-internal-move",
+      "title": "Negotiating Pay on an Internal Move or a Change of Role",
+      "description": "An internal move is where people negotiate least and have most to gain. Why 'we'll look at it later' never gets recovered, and how written exchanges document the widening of a role.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/negotiating-pay-on-an-internal-move",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/negotiating-pay-on-an-internal-move?lang=en"
+    },
+    {
+      "slug": "negotiating-salary-at-hiring-the-first-anchor",
+      "title": "Negotiating Salary When You're Hired: The First Anchor Decides Everything",
+      "description": "At hiring, the first number spoken shapes the whole discussion — and the years after it, because rises are calculated as a percentage of that starting point. How to answer the salary expectations question.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/negotiating-salary-at-hiring-the-first-anchor",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/negotiating-salary-at-hiring-the-first-anchor?lang=en"
+    },
+    {
+      "slug": "negotiating-your-salary-by-email",
+      "title": "Negotiating Your Salary by Email: The Message That Opens Instead of Closing",
+      "description": "A written pay request sets the anchor, leaves a dated trail, and can be reread before sending. A four-block structure, the six phrases that close the door, and what writing does better than talking — and worse.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/negotiating-your-salary-by-email",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/negotiating-your-salary-by-email?lang=en"
+    },
+    {
+      "slug": "nothing-lasts-forever",
+      "title": "Nothing lasts forever",
+      "description": "When the certainty that a relationship will end organises the relationship — and ends up ending it. How rejection sensitivity works, and how to get out of it.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/nothing-lasts-forever",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/nothing-lasts-forever?lang=en"
+    },
+    {
+      "slug": "one-year-after-burnout-what-actually-remains",
+      "title": "One Year After Burnout: What Remains, and What Has Really Changed",
+      "description": "At one year the episode is closed for everyone except the person concerned. What lastingly remains, what becomes an advantage, and why a second episode does not follow the same mechanics as a relapse.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/one-year-after-burnout-what-actually-remains",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/one-year-after-burnout-what-actually-remains?lang=en"
+    },
+    {
+      "slug": "performance-review-or-career-development-review-two-meetings",
+      "title": "Performance Review or Career Development Review: Two Meetings, Two Purposes, Two Preparations",
+      "description": "The two meetings are routinely confused, sometimes held within the same hour — and the employee is the one who loses out. What each is for, what you prepare for it, and why merging them serves nobody.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/performance-review-or-career-development-review-two-meetings",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/performance-review-or-career-development-review-two-meetings?lang=en"
+    },
+    {
+      "slug": "phased-return-on-medical-part-time-what-it-really-changes",
+      "title": "Phased Return on Medical Part-Time: Who Decides It, and What It Really Changes",
+      "description": "Part-time work on medical grounds is presented as half a day less. It is a scheme requiring several separate agreements, with one central flaw: half the hours almost never produces half the workload.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/phased-return-on-medical-part-time-what-it-really-changes",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/phased-return-on-medical-part-time-what-it-really-changes?lang=en"
+    },
+    {
+      "slug": "preparing-for-your-performance-review-a-six-point-checklist",
+      "title": "Preparing for Your Performance Review: A Six-Point Checklist for Employees",
+      "description": "Preparing for a performance review isn't re-reading your objectives the night before: it's re-reading a year of exchanges. A six-point checklist, with what to look for and what to write down.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/preparing-for-your-performance-review-a-six-point-checklist",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/preparing-for-your-performance-review-a-six-point-checklist?lang=en"
+    },
+    {
+      "slug": "questions-to-ask-your-manager-in-a-performance-review",
+      "title": "Questions to Ask Your Manager in a Performance Review: Twelve That Work, Five That Backfire",
+      "description": "The moment you are asked whether you have any questions decides what will remain of the review. Twelve questions sorted by purpose, what each one actually produces, and the five that backfire.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/questions-to-ask-your-manager-in-a-performance-review",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/questions-to-ask-your-manager-in-a-performance-review?lang=en"
+    },
+    {
+      "slug": "quiet-firing-pushed-out-without-being-told",
+      "title": "Quiet Firing: When the Company Pushes You Out Without Saying So",
+      "description": "Work removed, silence, promotions that keep going elsewhere: quiet firing makes a job unliveable rather than abolishing it. How to spot it, document it and decide.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/quiet-firing-pushed-out-without-being-told",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/quiet-firing-pushed-out-without-being-told?lang=en"
+    },
+    {
+      "slug": "quiet-quitting-what-it-really-means",
+      "title": "Quiet Quitting: What It Actually Is, and What It Is Not",
+      "description": "Quiet quitting is neither laziness nor resignation. A precise definition, its opposites (quiet thriving, loud quitting, quiet firing), the three profiles it hides, and how to tell which one is yours.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/quiet-quitting-what-it-really-means",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/quiet-quitting-what-it-really-means?lang=en"
+    },
+    {
+      "slug": "raise-refused-the-four-possible-next-steps",
+      "title": "Your Raise Was Refused: The Four Possible Next Steps",
+      "description": "A refusal isn't the end of a discussion, it's a fork. The four routes genuinely available, the question to ask within 48 hours, and why the refusal in writing is the most useful document you'll get.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/raise-refused-the-four-possible-next-steps",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/raise-refused-the-four-possible-next-steps?lang=en"
+    },
+    {
+      "slug": "refusing-to-work-because-of-a-coworker-the-common-misunderstanding",
+      "title": "Refusing to Work Because of a Coworker: The Costliest Misunderstanding, and What to Look For Instead",
+      "description": "Many people look to the right to stop work for protection against a working relationship that has become unliveable. Why that is not the tool, which routes genuinely answer that need, and who to put the question to.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/refusing-to-work-because-of-a-coworker-the-common-misunderstanding",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/refusing-to-work-because-of-a-coworker-the-common-misunderstanding?lang=en"
+    },
+    {
+      "slug": "renegotiating-an-offer-already-received",
+      "title": "Renegotiating a Job Offer You've Already Received — Without Losing It",
+      "description": "The offer has landed, the number isn't right, and the fear of blowing it up freezes everything. What makes a renegotiation safe, what makes it genuinely risky, and why one round is enough.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/renegotiating-an-offer-already-received",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/renegotiating-an-offer-already-received?lang=en"
+    },
+    {
+      "slug": "repairing-a-working-relationship-after-conflict",
+      "title": "Repairing a Working Relationship After Conflict: What Can Be Rebuilt, and What Cannot",
+      "description": "After the agreement, the relationship remains. The four levels of repair that are genuinely available, the sequence that makes them reachable, and the sign that you should stop at the third.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/repairing-a-working-relationship-after-conflict",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/repairing-a-working-relationship-after-conflict?lang=en"
+    },
+    {
+      "slug": "reporting-a-behaviour-to-your-manager-when-how-and-with-what",
+      "title": "Reporting a Behaviour to Your Manager: When, How and With What",
+      "description": "What makes a report admissible or inadmissible: the three-criterion threshold, preparing the record of facts, wording the request, and the six mistakes that make it rebound.",
+      "date": "2026-08-22",
+      "author": "Gildas Garrec",
+      "categories": [],
+      "url": "https://psychologieetserenite.com/en/blog/reporting-a-behaviour-to-your-manager-when-how-and-with-what",
+      "detail_url": "https://psychologieetserenite.com/api/v1/articles/reporting-a-behaviour-to-your-manager-when-how-and-with-what?lang=en"
+    }
+  ],
+  "books": [
+    {
+      "slug": "se-liberer-relations-toxiques",
+      "title": "Se libérer des relations toxiques",
+      "subtitle": "Reconnaître, sortir, se reconstruire",
+      "longDescription": "Vous avez le sentiment d'être pris au piège dans une relation qui vous détruit ? Vous vous excusez sans cesse, vous doutez de vos propres perceptions, vous ne reconnaissez plus la personne que vous étiez avant de la rencontrer ? Ce guide clinique décrypte les mécanismes de l'emprise relationnelle — manipulation, gaslighting, trauma bonding, love bombing suivi de renforcement intermittent — à travers huit chapitres qui remontent du repérage des dix signaux d'alerte jusqu'à la reconstruction après la rupture, en passant par le profil du manipulateur narcissique. Écrit par un psychopraticien en thérapie cognitivo-comportementale (TCC), il s'appuie sur des cas cliniques réels (anonymisés) et sur la recherche récente en psychologie relationnelle (Kaighobadi et al., 2024) pour montrer que la toxicité relationnelle n'est pas une vue de l'esprit mais un phénomène documenté et mesurable. Vous apprendrez à distinguer un conflit sain d'une dynamique de contrôle, à sortir de la culpabilisation permanente, et à prévenir la rechute dans un nouveau schéma toxique — un chemin vers la reconstruction de l'estime de soi et de l'autonomie, pas une simple liste de conseils.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2025,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée",
+      "topics": [
+        "relations toxiques",
+        "manipulation",
+        "emprise",
+        "narcissique",
+        "pervers narcissique",
+        "gaslighting"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/se-liberer-relations-toxiques"
+    },
+    {
+      "slug": "sauver-son-couple",
+      "title": "Sauver son couple",
+      "subtitle": "Méthode Gottman + TCC en 12 étapes",
+      "longDescription": "Votre couple traverse une crise et vous ne savez plus si elle se répare ou si elle annonce la fin ? Vous vous disputez en boucle sans jamais rien résoudre, ou pire, vous ne vous disputez plus du tout ? Ce guide s'appuie sur les travaux de John Gottman, qui prédit le divorce avec plus de 90 % de précision en observant un couple quinze minutes : vous apprendrez à repérer les quatre cavaliers de l'Apocalypse (critique, mépris, défensivité, mur de pierre) qui signalent un danger réel, et à rétablir le ratio de cinq interactions positives pour une négative qui caractérise les couples stables. Le livre combine ce modèle avec la théorie de l'attachement de Bowlby, la Communication Non Violente de Marshall Rosenberg et les cinq langages de l'amour de Gary Chapman, dans un programme concret organisé semaine par semaine pour transformer les bonnes intentions en nouvelles habitudes. Chaque chapitre associe recherche scientifique et exercices pratiques pour désamorcer les conflits, retrouver l'amitié conjugale, et raviver une intimité authentique — pas des recettes toutes faites, mais une méthode éprouvée.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2025,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée",
+      "topics": [
+        "couple",
+        "communication",
+        "crise conjugale",
+        "thérapie couple",
+        "CNV"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/sauver-son-couple"
+    },
+    {
+      "slug": "comprendre-son-attachement",
+      "title": "Comprendre son attachement",
+      "subtitle": "Les 4 styles et comment les transformer",
+      "longDescription": "Pourquoi reproduisez-vous toujours les mêmes schémas amoureux, avec des partenaires différents mais des scénarios identiques ? Pourquoi certaines relations vous rassurent quand d'autres vous étouffent ou vous angoissent ? Ce guide explore la théorie de l'attachement fondée par John Bowlby et développée par Mary Ainsworth, et ses quatre styles adultes — sécure, anxieux, évitant, désorganisé. Vous apprendrez à identifier le vôtre, à comprendre son origine dans les relations précoces de l'enfance, et surtout à le faire évoluer vers une sécurité affective durable. S'appuyant sur la thérapie cognitivo-comportementale (TCC), la thérapie focalisée sur les émotions de Sue Johnson (EFT) et la thérapie des schémas de Jeffrey Young, chaque chapitre propose des exercices concrets pour sortir de la peur de l'abandon, de l'évitement de l'intimité ou des schémas les plus douloureux, et pour transformer vos liens présents comme futurs. Un chapitre est consacré à la transmission d'un attachement sécure à vos propres enfants — parce que comprendre son attachement, c'est aussi choisir ce que l'on transmet.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2025,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée",
+      "topics": [
+        "attachement",
+        "anxieux",
+        "évitant",
+        "sécure",
+        "désorganisé",
+        "Bowlby"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/comprendre-son-attachement"
+    },
+    {
+      "slug": "guide-pratique-tcc",
+      "title": "Guide pratique de TCC",
+      "subtitle": "Outils, distorsions et restructuration cognitive",
+      "longDescription": "Vous savez ce qui ne va pas dans votre façon de penser, mais vous ne savez pas comment le changer concrètement ? Ce manuel pratique de thérapie cognitivo-comportementale (TCC) — l'approche développée par Aaron Beck, validée par une méta-analyse portant sur plus de 400 essais cliniques et 52 000 patients — vous donne les outils que les psychopraticiens utilisent en cabinet, pour les pratiquer chez vous entre les séances ou en autonomie. Huit chapitres progressifs vous font passer des fondements théoriques à l'action : repérer les quinze distorsions cognitives les plus fréquentes, identifier vos schémas précoces selon Jeffrey Young, pratiquer la restructuration cognitive, l'activation comportementale et l'exposition graduée, puis découvrir les apports de l'ACT et de la pleine conscience. Chaque chapitre propose des fiches à remplir et des exercices concrets, dans la logique d'un entraînement mental plutôt que d'une lecture passive. Le dernier chapitre vous guide dans la construction de votre propre plan de thérapie personnel. Un compagnon d'exercices, pas un simple exposé théorique — pour comprendre vos pensées et, surtout, apprendre à les transformer.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2025,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée",
+      "topics": [
+        "TCC",
+        "distorsions cognitives",
+        "restructuration",
+        "pensées automatiques",
+        "Beck"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/guide-pratique-tcc"
+    },
+    {
+      "slug": "vaincre-anxiete-stress",
+      "title": "Vaincre l'anxiété et le stress",
+      "subtitle": "Protocoles TCC, ACT et MBCT",
+      "longDescription": "Votre anxiété vous semble incontrôlable, et vous ne savez plus si c'est vous le problème ou votre corps qui s'emballe sans raison ? Ce programme structuré en huit semaines s'appuie sur les thérapies cognitivo-comportementales (TCC) pour vous aider à reprendre le contrôle, que vous souffriez de trouble anxieux généralisé, d'attaques de panique, de phobie sociale ou de ruminations envahissantes. Semaine après semaine, vous apprendrez à comprendre le cercle vicieux entre pensées, émotions et sensations corporelles, à apprivoiser les pensées anxieuses par la restructuration cognitive, à pratiquer la relaxation et la respiration, puis l'exposition progressive aux situations redoutées. Les dernières semaines abordent la rumination et la procrastination, l'acceptation et les valeurs (ACT), avant de construire votre plan personnel de prévention de la rechute. Fondé sur des données scientifiques solides — les troubles anxieux touchent environ une personne sur cinq en France —, ce guide traite l'anxiété non comme un ennemi à combattre, mais comme un signal biologique déréglé qu'il est possible de réapprendre à réguler, une semaine à la fois.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2025,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée",
+      "topics": [
+        "anxiété",
+        "stress",
+        "panique",
+        "phobie",
+        "TAG",
+        "ACT",
+        "MBCT"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/vaincre-anxiete-stress"
+    },
+    {
+      "slug": "le-pere-absent",
+      "title": "Pourquoi son absence me suit encore",
+      "subtitle": "Père absent : attachement, peur de l’abandon et relations à l’âge adulte",
+      "longDescription": "Vous avez grandi sans père, ou avec un père physiquement présent mais émotionnellement absent, et vous cherchez encore aujourd'hui ce que cette absence a façonné en vous ? Ce guide clinique explore les visages multiples de l'absence paternelle — physique, émotionnelle, ou héritée de parents toxiques — et leurs conséquences spécifiques selon que l'on soit fils ou fille, à travers huit chapitres qui s'appuient sur la thérapie des schémas de Jeffrey Young, en particulier les schémas d'abandon, de carence affective et de méfiance. Un chapitre est consacré aux défis propres aux familles recomposées, et deux chapitres accompagnent le travail de deuil du père idéal jusqu'à la reconstruction de soi comme son propre ancrage. Fondé sur la thérapie cognitivo-comportementale (TCC) et enrichi de cas cliniques anonymisés, ce livre ne cherche pas à culpabiliser les pères ni à figer les lecteurs dans une posture de victime : il s'agit de nommer une blessure encore trop silencieuse, de comprendre comment elle continue d'agir dans votre couple, votre travail et votre estime de vous-même, et de la transformer.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2025,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée",
+      "topics": [
+        "père absent",
+        "parentalité",
+        "développement",
+        "attachement",
+        "identité"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/le-pere-absent"
+    },
+    {
+      "slug": "survivre-rupture",
+      "title": "La relation est finie, pas ma vie",
+      "subtitle": "Rupture amoureuse : traverser le manque et reconstruire sa vie quotidienne",
+      "longDescription": "Une rupture amoureuse peut faire aussi mal, physiquement, qu'un deuil ou qu'un sevrage — et vous vous demandez si cette douleur va un jour s'arrêter ? Ce guide vous accompagne à travers les cinq phases du deuil amoureux identifiées par Élisabeth Kübler-Ross (déni, colère, marchandage, dépression, acceptation), en expliquant pourquoi la rupture active dans votre cerveau les mêmes zones que la douleur physique et le sevrage d'une substance addictive. Fondé sur la thérapie cognitivo-comportementale (TCC), il propose des stratégies concrètes pour traverser la douleur sans s'y enfermer : pourquoi et comment pratiquer le no contact, comment faire face au ghosting et aux ruptures à l'ère numérique, comment votre style d'attachement influence votre manière de vivre la séparation, et comment reconstruire une identité qui ne dépendait plus de l'autre. Le dernier chapitre aborde les pièges du rebond et les conditions pour retrouver le chemin d'une vie affective apaisée — la rupture comme métamorphose, pas seulement comme perte.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2025,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée",
+      "topics": [
+        "rupture",
+        "deuil amoureux",
+        "séparation",
+        "no contact",
+        "reconstruction"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/survivre-rupture"
+    },
+    {
+      "slug": "infidelite-jalousie",
+      "title": "Infidélité et jalousie",
+      "subtitle": "Comprendre, surmonter, reconstruire",
+      "longDescription": "Vous venez de découvrir une infidélité, ou c'est une jalousie que vous n'arrivez plus à maîtriser qui vous ronge — et vous ne savez plus si votre couple peut ou doit survivre ? Ce guide clinique s'appuie sur les travaux de chercheurs reconnus (John Gottman, Shirley Glass, Esther Perel) et sur la thérapie cognitivo-comportementale pour explorer, sans jugement, pourquoi on trompe, ce que les neurosciences révèlent sur la jalousie (elle active les mêmes circuits cérébraux que la douleur physique), et comment traverser le choc de la découverte. Huit chapitres vous accompagnent depuis les mécanismes psychologiques de l'infidélité et ses nouvelles formes numériques jusqu'aux cinq étapes concrètes pour surmonter la trahison, la question du pardon, et — si c'est la décision la plus juste — celle de partir. Le dernier chapitre aborde la reconstruction de la confiance, avec le même partenaire ou un nouveau. Chaque chapitre propose des cas cliniques anonymisés et des exercices pratiques, seul ou en couple, pour faire des choix éclairés plutôt que dictés par la panique ou la honte.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2025,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée",
+      "topics": [
+        "infidélité",
+        "jalousie",
+        "trahison",
+        "pardon",
+        "confiance"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/infidelite-jalousie"
+    },
+    {
+      "slug": "adolescence-en-crise",
+      "title": "Adolescence en crise",
+      "subtitle": "Comprendre votre ado, restaurer le dialogue",
+      "longDescription": "Votre adolescent s'enferme dans sa chambre, ne vous parle plus qu'en monosyllabes, ou pire : vous avez découvert des scarifications, des signes de mal-être que vous ne savez pas comment aborder ? Ce guide clinique s'adresse aux parents désemparés face à un adolescent en crise, à travers huit chapitres qui explorent le fonctionnement du cerveau adolescent, l'impact réel des réseaux sociaux, l'anxiété scolaire (parfois appelée phobie scolaire), le harcèlement et le cyberharcèlement, jusqu'aux signaux les plus alarmants — dépression, automutilation, idées suicidaires — et aux troubles du comportement (opposition, conduites à risque, addictions). Fondé sur la thérapie cognitivo-comportementale (TCC) et sur la Communication Non Violente de Marshall Rosenberg, il propose une posture parentale concrète pour restaurer le dialogue sans minimiser ni dramatiser. Chaque chapitre combine repères scientifiques, cas cliniques et outils pratiques pour reconnaître les signaux d'alerte, réagir sans céder à la panique, et retrouver le lien avec votre adolescent — parce que, comme le rappelle ce livre, votre présence compte plus que vous ne le croyez.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2025,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée",
+      "topics": [
+        "adolescent",
+        "parentalité",
+        "phobie scolaire",
+        "écrans",
+        "cannabis",
+        "crise familiale"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/adolescence-en-crise"
+    },
+    {
+      "slug": "dependance-affective",
+      "title": "Dépendance affective",
+      "subtitle": "Sortir du besoin compulsif de l'autre",
+      "longDescription": "Vous confondez souvent aimer et avoir besoin de l'autre ? Vous ne supportez pas la solitude, acceptez l'inacceptable pour ne pas perdre votre partenaire, ou vous vous oubliez complètement dans vos relations ? Ce guide clinique explore la dépendance affective — ce besoin excessif de réassurance et de présence de l'autre pour se sentir en sécurité — à travers 8 chapitres qui remontent de ses racines dans l'attachement anxieux de l'enfance jusqu'au chemin de l'autonomie affective. Fondé sur les thérapies cognitivo-comportementales (TCC), la théorie de l'attachement de John Bowlby et la thérapie des schémas de Jeffrey Young, il s'appuie aussi sur les recherches neurobiologiques récentes sur les addictions relationnelles pour destigmatiser ce qui n'est pas une faiblesse mais une stratégie de survie apprise — et donc réversible. Chaque chapitre combine cas cliniques et exercices pratiques concrets pour identifier votre cycle de dépendance, affronter la peur de l'abandon, et construire une relation équilibrée où l'amour reste un choix libre, jamais une prison. S'adresse aussi aux professionnels de l'accompagnement souhaitant enrichir leur pratique clinique.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2025,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée",
+      "topics": [
+        "dépendance affective",
+        "codépendance",
+        "limites",
+        "autonomie émotionnelle"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/dependance-affective"
+    },
+    {
+      "slug": "mon-ex-est-en-couple",
+      "title": "Mon ex est en couple",
+      "subtitle": "Cesser de surveiller, se libérer, avancer",
+      "longDescription": "Vous venez d'apprendre que votre ex est en couple, et cette nouvelle a réactivé une douleur que vous pensiez pourtant surmontée ? Ce guide clinique explique pourquoi cette information fait aussi mal qu'une seconde rupture : elle relance un deuil que vous croyiez achevé, déclenche le piège de l'idéalisation, et vous entraîne dans des comparaisons sociales dévastatrices — un mécanisme décrit dès 1954 par le psychologue Léon Festinger, et que les recherches plus récentes montrent particulièrement destructeur quand l'estime de soi est fragilisée. Dix chapitres vous accompagnent depuis la compréhension de cette douleur spécifique jusqu'à la détox numérique face à la surveillance de ses réseaux sociaux, la reconstruction de l'estime de soi, le pardon comme libération, et la redéfinition de qui vous êtes en dehors de cette relation. Fondé sur la thérapie cognitivo-comportementale (TCC), ce livre ne promet pas d'effacer la douleur du jour au lendemain, mais offre une méthode progressive pour cesser de vous comparer, cesser de surveiller, et rouvrir votre cœur à votre propre vie.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2025,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée",
+      "topics": [
+        "ex en couple",
+        "stalking digital",
+        "rupture",
+        "jalousie rétrospective"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/mon-ex-est-en-couple"
+    },
+    {
+      "slug": "silence-radio-no-contact",
+      "title": "Silence radio et no contact",
+      "subtitle": "La méthode validée par les neurosciences",
+      "longDescription": "Vous fixez votre téléphone en attendant un message qui ne vient pas, et vous ne savez plus si tenir le silence vous soigne ou vous détruit ? Ce guide s'appuie sur les neurosciences de l'attachement — dopamine, ocytocine, endorphines — pour expliquer pourquoi une rupture brutale provoque, dans votre cerveau, l'équivalent d'un sevrage : les mêmes régions cérébrales s'activent que chez une personne en manque de substance. Huit chapitres vous accompagnent à travers le sevrage émotionnel, la tentation de rompre le silence, le no contact thérapeutique et ses pièges (dont le stalking numérique involontaire), jusqu'à la reconstruction de votre vie pendant cette période et la question de reprendre contact, si et quand cela devient pertinent. Le livre est explicite sur un point rare dans ce type d'ouvrage : il n'existe aucune durée universelle scientifiquement validée — ni « règle des six mois », ni chiffre magique — mais un minimum de trois à six mois de no contact strict est généralement nécessaire pour que la reconstruction s'enclenche vraiment. Fondé sur la thérapie cognitivo-comportementale (TCC), un guide honnête plutôt qu'une formule miracle.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2025,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée",
+      "topics": [
+        "no contact",
+        "silence radio",
+        "rupture",
+        "addiction amoureuse",
+        "neuroscience"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/silence-radio-no-contact"
+    },
+    {
+      "slug": "loana-brulee-par-la-lumiere",
+      "title": "Loana — Brûlée par la lumière",
+      "subtitle": "Portrait psychologique d'une icône en quête",
+      "longDescription": "Comment une jeune femme de vingt-trois ans, acclamée par des millions de téléspectateurs, s'est-elle retrouvée, huit ans plus tard, semi-inconsciente dans sa baignoire ? Ce portrait psychologique retrace la trajectoire de Loana Petrucciani — de l'enfance fracturée à la gloire de Loft Story, puis aux rechutes et à la mort en 2026 — à travers le prisme de la thérapie des schémas de Jeffrey Young. Codépendance médiatique, schémas d'abandon, honte et quête désespérée de reconnaissance : chaque chapitre éclaire ce que la vie de Loana révèle sur elle, sur nous, et sur un système médiatique qui dévore ses idoles. Une analyse clinique rigoureuse et profondément humaine, jamais un réquisitoire ni une hagiographie.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2025,
+      "status": "published",
+      "series": "Hors-série",
+      "topics": [
+        "portrait psychologique",
+        "célébrité",
+        "codépendance médiatique",
+        "abandon",
+        "téléréalité"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/loana-brulee-par-la-lumiere"
+    },
+    {
+      "slug": "pourquoi-les-hommes-mentent",
+      "title": "Pourquoi les hommes mentent ?",
+      "subtitle": "Comprendre les mensonges dans le couple — Intuition, trauma et contexte sociologique",
+      "longDescription": "Vous sentez qu'il vous ment, mais vous doutez de votre propre intuition — et vous ne savez plus si c'est vous qui « êtes folle » ou lui qui dissimule quelque chose ? Ce livre ne cherche pas à accuser les hommes en bloc : il analyse, à travers quatre parties, ce que les études disent vraiment sur le mensonge dans le couple, le contexte sociologique du marché relationnel actuel (jusqu'au phénomène du « monkey branching »), et surtout quatre mécanismes distincts du mensonge masculin — l'évitement du conflit, la protection de l'image, l'alexithymie (l'incapacité à identifier et nommer ses propres émotions), et la dissimulation active. Le lien avec l'attachement évitant est exploré en détail, ainsi que la manière dont votre propre histoire a calibré votre « radar » à mensonges. Fondé sur la thérapie cognitivo-comportementale (TCC), enrichi de douze études de cas cliniques et de quinze exercices pratiques, ce guide se conclut par un protocole de dialogue en quatre étapes pour restaurer la vérité dans le couple — sans devenir détective, et sans sacrifier votre santé mentale.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2026,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée — Tome 2",
+      "topics": [
+        "mensonge",
+        "évitement",
+        "masculinité",
+        "communication couple"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/pourquoi-les-hommes-mentent"
+    },
+    {
+      "slug": "failles-archaiques",
+      "title": "Nos failles archaïques — Les 5 blessures d'âme",
+      "subtitle": "Comprendre ses schémas profonds pour se libérer",
+      "longDescription": "Vous sentez, confusément, que vous répétez toujours les mêmes schémas douloureux, sans comprendre pourquoi ? Ce livre part des cinq blessures d'âme popularisées par Lise Bourbeau — rejet, abandon, humiliation, trahison, injustice — et construit un pont entre son intuition clinique et les avancées scientifiques de la psychologie contemporaine, en particulier les dix-huit schémas précoces inadaptés identifiés par Jeffrey Young, dont chacune des cinq blessures active un ou plusieurs. Dix chapitres cartographient cet héritage invisible, explorent chaque blessure en détail, décryptent les cinq masques que nous développons pour nous protéger (le fuyant, le dépendant, le masochiste, le contrôlant, le rigide), et montrent comment ces failles se rencontrent et s'aggravent mutuellement dans le couple. Le livre est transparent sur ses sources : il distingue clairement l'intuition clinique de Bourbeau, qui n'est pas chercheuse en psychologie, des données validées scientifiquement. Un chemin de guérison structuré, du schéma à la liberté, pour cesser de subir ses failles et apprendre à vivre avec elles sans qu'elles ne définissent votre identité.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2026,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée — Tome 2",
+      "topics": [
+        "blessures émotionnelles",
+        "rejet",
+        "abandon",
+        "humiliation",
+        "trahison"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/failles-archaiques"
+    },
+    {
+      "slug": "trauma-bonding",
+      "title": "Trauma bonding",
+      "subtitle": "Le lien traumatique : comprendre, se libérer",
+      "longDescription": "Vous savez que cette relation vous détruit — vos proches vous l'ont dit, votre thérapeute peut-être aussi — et pourtant vous restez, ou vous partez puis vous revenez, encore et encore ? Ce n'est pas de la faiblesse : c'est un phénomène neurobiologique documenté que la psychologie clinique appelle le trauma bonding, le lien traumatique. Ce guide clinique explore, à travers huit chapitres, les mécanismes neurobiologiques de ce lien, le cycle de la violence intermittente qui alterne cruauté et tendresse pour créer la dépendance, et les pièges psychologiques qui vous maintiennent prisonnier — dissonance cognitive, syndrome de Stockholm, espoir irrationnel. Fondé sur la thérapie cognitivo-comportementale (TCC), la théorie de l'attachement et les schémas précoces de Jeffrey Young, il propose une grille d'auto-évaluation concrète pour reconnaître le trauma bonding dans votre propre relation, puis un protocole de détachement en TCC et des stratégies de reconstruction pour transformer la compréhension en action. Vous n'êtes pas stupide : votre cerveau est prisonnier d'un mécanisme aussi ancien que l'humanité — et dont on peut se libérer.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2026,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée — Tome 2",
+      "topics": [
+        "trauma bonding",
+        "lien traumatique",
+        "emprise",
+        "manipulation",
+        "reconstruction"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/trauma-bonding"
+    },
+    {
+      "slug": "attachement-evitant",
+      "title": "L'Attachement Évitant : Comprendre, Aimer et Se Libérer",
+      "subtitle": "La psychologie des hommes et des femmes qui craignent l'intimité — et comment changer",
+      "longDescription": "Votre partenaire — ou vous-même — semble incapable de supporter la proximité, minimise ses émotions, ou sabote systématiquement l'intimité dès qu'elle devient réelle ? L'attachement évitant concerne environ 25 % de la population générale selon les études épidémiologiques les plus citées, un chiffre confirmé depuis l'étude fondatrice de Hazan et Shaver (1987). Ce guide clinique décrypte les trois profils évitants — le dismissif, qui minimise ses besoins ; le craintif, tiraillé entre désir de proximité et terreur de l'intimité ; le désactivant, qui sabote activement l'attachement dès qu'il s'active — et la « danse » destructrice qui s'installe entre un anxieux et un évitant. Un protocole TCC en huit semaines vous guide vers la restructuration des schémas d'évitement, avec des outils directement utilisables aussi par les professionnels de l'accompagnement. Le livre se conclut sur le concept d'« earned secure » (attachement sécure acquis) introduit par Mary Main : la preuve clinique que l'histoire d'enfance ne condamne à rien, à condition de savoir la comprendre et l'intégrer autrement.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2026,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée — Tome 2",
+      "topics": [
+        "attachement évitant",
+        "intimité",
+        "couple anxieux-évitant",
+        "TCC",
+        "Bowlby",
+        "earned secure",
+        "neuroplasticité"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/attachement-evitant"
+    },
+    {
+      "slug": "psychologie-mafieuse",
+      "title": "Dans la tête du parrain",
+      "subtitle": "Ce que la psychologie révèle sur les caïds — du DSM-5 à la rue",
+      "longDescription": "Comment un être humain ordonne un assassinat et dort sans difficulté la nuit suivante ? Ce hors-série clinique explore la psychologie du crime organisé à travers plus de trente profils — dix-neuf organisations criminelles à travers le monde (Mafia sicilienne, cartels, Yakuza, Bratva, Triades, 'Ndrangheta et bien d'autres), douze parrains réels (d'Al Capone à Griselda Blanco) et cinq personnages de fiction (Tony Soprano, Michael Corleone) — au prisme du DSM-5, de la Psychopathy Checklist-Revised (PCL-R) de Robert Hare et des neurosciences du trauma. Chaque profil réel s'appuie exclusivement sur des sources publiques (biographies, témoignages judiciaires, expertises psychiatriques) ; les scores de psychopathie sont présentés comme des estimations cliniques argumentées, jamais comme des diagnostics formels. Le livre explore aussi l'enfance des caïds, le code d'honneur comme morale parallèle, la place des femmes dans le crime organisé, et interroge enfin pourquoi la mafia fascine autant le grand public. Une analyse clinique qui ne glorifie ni ne condamne : elle décortique.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2026,
+      "status": "published",
+      "series": "Hors-série",
+      "topics": [
+        "psychologie criminelle",
+        "psychopathie",
+        "mafia",
+        "PCL-R",
+        "narcissisme criminel",
+        "true crime",
+        "DSM-5"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/psychologie-mafieuse"
+    },
+    {
+      "slug": "michael-jackson-portrait-psychologique",
+      "title": "Michael Jackson — Portrait psychologique d'un mythe brisé",
+      "subtitle": "Trauma, gloire et fragmentation",
+      "longDescription": "Comment l'enfant prodige acclamé par le monde entier est-il devenu, à sa mort en 2009, l'homme le plus scruté et le plus incompris de la culture populaire ? Ce portrait clinique retrace la trajectoire de Michael Jackson depuis l'enfance volée à Gary, Indiana, sous l'autorité destructrice de son père Joe Jackson, jusqu'à la fabrique de l'enfant-machine que fut le Jackson 5. Il explore la grandiosité d'albums comme Thriller comme défense narcissique face à un vide identitaire, la dysmorphie corporelle et le vitiligo qui ont transformé son visage au fil des décennies, Neverland comme tentative désespérée de reconstruire une enfance impossible, puis la spirale des addictions médicamenteuses (Demerol, Propofol) jusqu'à sa mort. Les allégations de 1993 et de 2003-2005 sont analysées comme des dynamiques psychologiques régressives, dans le respect strict du verdict judiciaire de 2005. Un dernier chapitre interroge ce que Leaving Neverland (2019) et l'héritage de Jackson révèlent sur le trauma complexe, la dissociation, et le prix psychique de la célébrité précoce.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2026,
+      "status": "published",
+      "series": "Hors-série",
+      "topics": [
+        "psychologie celebrite",
+        "trauma developpemental",
+        "narcissisme",
+        "dysmorphie corporelle",
+        "addiction",
+        "biographie psychologique"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/michael-jackson-portrait-psychologique"
+    },
+    {
+      "slug": "pervers-narcissique",
+      "title": "Le Pervers Narcissique",
+      "subtitle": "Reconnaître, comprendre, s'en libérer",
+      "longDescription": "Vous avez tapé « pervers narcissique » dans un moteur de recherche, un soir, après une scène de plus. Vous avez lu une liste de signes, vous en avez coché la moitié, et vous avez ressenti deux choses à la fois : un soulagement, puis une honte — parce qu'une voix vous a soufflé que vous exagériez. Ce livre est écrit pour ce moment-là. Il ne vous demande pas de prouver ce que vous vivez ni de poser un diagnostic sur quelqu'un avant d'avoir le droit d'aller mieux. Il explique d'où vient l'expression, ce qu'elle désigne réellement, et pourquoi son absence des classifications médicales ne change rien à votre situation. Il décrit les huit mécanismes qui installent le doute, du love bombing au contrôle par l'argent. Il montre pourquoi ce qui vous a rendu vulnérable est le plus souvent ce que vous avez de meilleur, et pourquoi le renforcement intermittent attache plus fort que la constance. Il aborde enfin le couple, les enfants, le travail, puis la sortie : se préparer, tenir les premières semaines, se reconstruire avec les approches thérapeutiques qui ont fait leurs preuves. Aucun délai de guérison promis, aucune méthode miracle.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2026,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée",
+      "topics": [
+        "pervers narcissique",
+        "emprise psychologique",
+        "manipulation mentale",
+        "gaslighting",
+        "harcelement moral",
+        "relation toxique",
+        "reconstruction apres emprise"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/pervers-narcissique"
+    },
+    {
+      "slug": "encyclopedie-pervers-narcissique",
+      "title": "Encyclopédie du Pervers Narcissique",
+      "subtitle": "De la Dyade à la Décade noire — l'ouvrage de référence en six tomes",
+      "longDescription": "Il existe beaucoup de livres sur le pervers narcissique. Il n'existait pas d'ouvrage qui rassemble, sur un seul objet, ce que la psychanalyse, la psychologie empirique, la sociologie et la clinique thérapeutique en disent réellement — avec leurs désaccords, leurs zones d'ombre et leurs limites méthodologiques. C'est ce que fait cette encyclopédie en six tomes. Le tome I remonte du mythe de Narcisse au DSM-5 et restitue la généalogie du terme, de Racamier à Hirigoyen. Le tome II décrit la structure de personnalité du manipulateur et ses mécanismes, de la triade noire au DARVO. Le tome III est consacré à la victime : vulnérabilités, phases de l'emprise, conséquences psychologiques et somatiques. Le tome IV sort du couple pour examiner la famille, l'entreprise, la politique, les réseaux sociaux et les sectes. Le tome V passe en revue les approches thérapeutiques — TCC, schémas, EMDR, IFS, travail sensorimoteur — en distinguant ce qui est validé de ce qui ne l'est pas. Le tome VI est un dictionnaire de 174 entrées, chacune avec son niveau de preuve. Chaque chiffre avancé est adossé à sa source, et chaque source a été vérifiée.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2026,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée",
+      "topics": [
+        "pervers narcissique",
+        "encyclopedie psychologie",
+        "narcissisme pathologique",
+        "emprise psychologique",
+        "triade noire",
+        "psychologie clinique",
+        "ouvrage de reference"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/encyclopedie-pervers-narcissique"
+    },
+    {
+      "slug": "attachement-anxieux",
+      "title": "L'Attachement Anxieux : Comprendre, Aimer et Se Libérer",
+      "subtitle": "La psychologie de ceux qui ont besoin d'être rassurés en amour — et comment s'en libérer",
+      "longDescription": "Vous vérifiez votre téléphone en permanence, un silence de deux heures déclenche un scénario catastrophe, ou vous avez besoin d'entendre « je t'aime » de nouveau quelques heures à peine après la dernière fois ? Ce guide clinique décrypte l'attachement anxieux — l'hyperactivation du système d'attachement qui pousse à la recherche compulsive de réassurance, aux comportements de test et à une peur de l'abandon capable de submerger même une relation réellement sécurisante. Écrit par un psychopraticien en thérapie cognitivo-comportementale (TCC), il retrace les origines de l'attachement anxieux dans l'enfance, l'expérience spécifique de l'homme et de la femme anxieux, le piège anxieux-évitant vu du côté anxieux, et douze signes concrets pour reconnaître le schéma chez soi. Un protocole TCC en huit semaines structure la seconde moitié du livre — restructurer les interprétations catastrophistes, construire un répertoire d'auto-apaisement, apprendre à formuler ses besoins directement plutôt que de les tester —, avec un guide de survie dédié au partenaire et un chapitre sur la thérapie de couple. Le chemin décrit mène vers l'attachement sécure acquis : non la disparition de la capacité à s'attacher intensément, mais sa régulation, pour qu'aimer profondément cesse de rimer avec vivre dans la peur permanente de perdre ce qu'on aime.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2026,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée — Tome 2",
+      "topics": [
+        "attachement anxieux",
+        "peur abandon",
+        "hyperactivation",
+        "TCC couple",
+        "réassurance",
+        "attachement sécure acquis"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/attachement-anxieux"
+    },
+    {
+      "slug": "champions-football",
+      "title": "Dans la tête des champions de football",
+      "subtitle": "Ce que les grands footballeurs ont construit, et ce que tu peux en faire",
+      "longDescription": "Tu joues, tu progresses, et une question revient plus souvent que tu ne le dis : est-ce que tu as ce qu'il faut ?\n\nCe livre part d'un constat qui devrait te libérer plutôt que t'inquiéter : la recherche en psychologie du sport a identifié ce qui distingue, après coup, les carrières exceptionnelles — mais rien de tout cela ne permet de prédire, à l'avance, qui deviendra grand. Aucun recruteur, aucun test, aucune non-sélection ne peut te rayer définitivement de la liste.\n\nOrganisé non pas autour de superstars, mais autour de mécanismes concrets — la pratique qui compte vraiment, la réponse à une blessure ou à un refus, la pression d'un match qui compte —, ce livre te donne un programme de huit semaines, construit sur des outils de thérapie cognitive et comportementale, pour travailler ce qui, dans ta trajectoire, t'appartient réellement.\n\nAucune promesse de résultat. Une méthode pour progresser, quel que soit le chemin qui t'attend.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2026,
+      "status": "published",
+      "series": "Hors-série",
+      "topics": [
+        "psychologie du sport",
+        "football",
+        "adolescents",
+        "TCC",
+        "préparation mentale",
+        "talent",
+        "confiance en soi"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/champions-football"
+    },
+    {
+      "slug": "darvo",
+      "title": "Quand tout se retourne contre vous",
+      "subtitle": "Repérer le DARVO et protéger ses limites",
+      "longDescription": "DARVO désigne le déni, l’attaque et l’inversion des rôles de victime et de responsable. Ce guide examine comment ces réactions peuvent déplacer une discussion des faits vers la personne qui les signale, dans le couple, la famille ou au travail. Elles ne suivent pas nécessairement un ordre fixe ; un désaccord ou une réaction défensive ne suffit pas à conclure à du DARVO. Les 15 chapitres et leurs 15 exercices aident à distinguer faits, interprétations et accusations, à tenir une chronologie et à formuler des limites portant sur ses propres actions. Des contre-exemples et des situations composites éclairent la différence entre conflit, épisode isolé et contrôle coercitif. Le livre s’appuie sur des recherches publiées et en explique les limites : il ne permet ni de diagnostiquer une personne ni de trancher la véracité d’une accusation. En situation de menace ou de contrôle, les possibilités de se retirer d’un échange dépendent de la sécurité ; confronter l’autre ou entreprendre une thérapie de couple n’est pas une recommandation automatique. Par Gildas Garrec.",
+      "author": "Gildas Garrec",
+      "yearPublished": 2026,
+      "status": "published",
+      "series": "Les Essentiels de la Psychologie Appliquée — Tome 2",
+      "topics": [
+        "DARVO",
+        "manipulation",
+        "inversion victime-responsable",
+        "contrôle coercitif",
+        "limites",
+        "communication",
+        "couple",
+        "famille",
+        "travail"
+      ],
+      "detail_url": "https://psychologieetserenite.com/api/v1/books/darvo"
+    }
+  ]
+}
